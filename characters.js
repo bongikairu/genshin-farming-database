@@ -447,5 +447,58 @@ export const character_data = [
             "damaged_mask",
         ],
     },
+
+    {
+        name: "childe",
+        fullname: {
+            en: "Childe",
+        },
+        element: "hydro",
+        rarity: 5,
+        weapon: "bow",
+        ascension: [
+        ],
+        talent: [
+        ],
+    },
+    {
+        name: "zhongli",
+        fullname: {
+            en: "Zhongli",
+        },
+        element: "geo",
+        rarity: 5,
+        weapon: "polearm",
+        ascension: [
+        ],
+        talent: [
+        ],
+    },
+    {
+        name: "xinyan",
+        fullname: {
+            en: "Xinyan",
+        },
+        element: "pyro",
+        rarity: 4,
+        weapon: "claymore",
+        ascension: [
+        ],
+        talent: [
+        ],
+    },
+    {
+        name: "diona",
+        fullname: {
+            en: "Diona",
+        },
+        element: "cryo",
+        rarity: 4,
+        weapon: "bow",
+        ascension: [
+        ],
+        talent: [
+        ],
+    },
 ];
 export const character_map = character_data.reduce((acc, cur) => ({...acc, [cur.name]: cur}), {});

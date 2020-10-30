@@ -94,6 +94,7 @@ export const materials = [
             en: "Windwheel Aster",
         },
         farm_at: "world_harvest_mondstadt",
+        respawn_rate: "reset_2",
     },
     {
         name: "small_lamp_grass",
@@ -101,6 +102,7 @@ export const materials = [
             en: "Small Lamp Grass",
         },
         farm_at: "world_harvest_mondstadt",
+        respawn_rate: "reset_2",
     },
     {
         name: "valberry",
@@ -108,6 +110,7 @@ export const materials = [
             en: "Valberry",
         },
         farm_at: "world_harvest_mondstadt",
+        respawn_rate: "reset_2",
     },
     {
         name: "calla_lily",
@@ -115,6 +118,7 @@ export const materials = [
             en: "Calla Lily",
         },
         farm_at: "world_harvest_mondstadt",
+        respawn_rate: "reset_2",
     },
     {
         name: "dandelion_seed",
@@ -122,6 +126,7 @@ export const materials = [
             en: "Dandelion Seed",
         },
         farm_at: "world_harvest_mondstadt",
+        respawn_rate: "reset_2",
     },
     {
         name: "philanemo_mushroom",
@@ -129,6 +134,7 @@ export const materials = [
             en: "Philanemo Mushroom",
         },
         farm_at: "world_harvest_mondstadt",
+        respawn_rate: "reset_2",
     },
     {
         name: "wolfhook",
@@ -136,6 +142,7 @@ export const materials = [
             en: "Wolfhook",
         },
         farm_at: "world_harvest_mondstadt",
+        respawn_rate: "reset_2",
     },
     {
         name: "cecilia",
@@ -143,6 +150,7 @@ export const materials = [
             en: "Cecilia",
         },
         farm_at: "world_harvest_mondstadt",
+        respawn_rate: "reset_2",
     },
 
     {
@@ -151,6 +159,7 @@ export const materials = [
             en: "Jueyun Chili",
         },
         farm_at: "world_harvest_liyue",
+        respawn_rate: "reset_2",
     },
     {
         name: "qingxin",
@@ -158,6 +167,7 @@ export const materials = [
             en: "Qingxin",
         },
         farm_at: "world_harvest_liyue",
+        respawn_rate: "reset_2",
     },
     {
         name: "glaze_lily",
@@ -165,6 +175,7 @@ export const materials = [
             en: "Glaze Lily",
         },
         farm_at: "world_harvest_liyue",
+        respawn_rate: "reset_2",
     },
     {
         name: "noctilucous_jade",
@@ -172,6 +183,7 @@ export const materials = [
             en: "Noctilucous Jade",
         },
         farm_at: "world_harvest_liyue",
+        respawn_rate: "reset_2",
     },
     {
         name: "cor_lapis",
@@ -179,6 +191,7 @@ export const materials = [
             en: "Cor Lapis",
         },
         farm_at: "world_harvest_liyue",
+        respawn_rate: "reset_2",
     },
     {
         name: "silk_flower",
@@ -186,6 +199,7 @@ export const materials = [
             en: "Silk Flower",
         },
         farm_at: "world_harvest_liyue",
+        respawn_rate: "reset_2",
     },
     {
         name: "violetgrass",
@@ -193,6 +207,7 @@ export const materials = [
             en: "Violetgrass",
         },
         farm_at: "world_harvest_liyue",
+        respawn_rate: "reset_2",
     },
 
     {
@@ -201,6 +216,7 @@ export const materials = [
             en: "Chaos Device",
         },
         farm_at: "world_miniboss",
+        respawn_rate: "reset",
     },
     {
         name: "dead_ley_line_branch",
@@ -208,6 +224,7 @@ export const materials = [
             en: "Dead Ley Line Branch",
         },
         farm_at: "world_miniboss",
+        respawn_rate: "reset",
     },
     {
         name: "heavy_horn",
@@ -215,6 +232,7 @@ export const materials = [
             en: "Heavy Horn",
         },
         farm_at: "world_miniboss",
+        respawn_rate: "reset",
     },
     {
         name: "hunter_sacrificial_knife",
@@ -222,6 +240,7 @@ export const materials = [
             en: "Hunter Sacrificial Knife",
         },
         farm_at: "world_miniboss",
+        respawn_rate: "reset",
     },
     {
         name: "mist_grass_pollen",
@@ -229,6 +248,7 @@ export const materials = [
             en: "Mist Grass Pollen",
         },
         farm_at: "world_miniboss",
+        respawn_rate: "reset",
     },
     {
         name: "fragile_bone_shard",
@@ -236,6 +256,7 @@ export const materials = [
             en: "Fragile Bone Shard",
         },
         farm_at: "world_miniboss",
+        respawn_rate: "reset",
     },
 
     {
@@ -390,238 +411,293 @@ export const farming_spot = [
         name: "pyro_regisvines",
         fullname: {
             en: "World Boss: Pyro Regisvines",
+            th: "เวิลด์บอส: Pyro Regisvines",
         },
         day_of_week: null,
         resin: 40,
+        type: "world_boss",
     },
     {
         name: "cryo_regisvines",
         fullname: {
             en: "World Boss: Cryo Regisvines",
+            th: "เวิลด์บอส: Cryo Regisvines",
         },
         day_of_week: null,
         resin: 40,
+        type: "world_boss",
     },
     {
         name: "anemo_hypostasis",
         fullname: {
             en: "World Boss: Anemo Hypostasis",
+            th: "เวิลด์บอส: Anemo Hypostasis",
         },
         day_of_week: null,
         resin: 40,
+        type: "world_boss",
     },
     {
         name: "electro_hypostasis",
         fullname: {
             en: "World Boss: Electro Hypostasis",
+            th: "เวิลด์บอส: Electro Hypostasis",
         },
         day_of_week: null,
         resin: 40,
+        type: "world_boss",
     },
     {
         name: "geo_hypostasis",
         fullname: {
             en: "World Boss: Geo Hypostasis",
+            th: "เวิลด์บอส: Geo Hypostasis",
         },
         day_of_week: null,
         resin: 40,
+        type: "world_boss",
     },
     {
         name: "oceanid",
         fullname: {
             en: "World Boss: Oceanid",
+            th: "เวิลด์บอส: Oceanid",
         },
         day_of_week: null,
         resin: 40,
+        type: "world_boss",
     },
 
     {
         name: "domain_mastery_forsaken_rift",
         fullname: {
             en: "Domain of Mastery: Forsaken Rift",
+            th: "ดันเจี้ยนแห่งการพัฒนา: หุบเขาแห่งการลืมเลือน",
         },
         day_of_week: null,
         resin: 20,
+        type: "domain",
     },
     {
         name: "domain_mastery_forsaken_rift_mon_thu",
         fullname: {
             en: "Domain of Mastery: Forsaken Rift",
+            th: "ดันเจี้ยนแห่งการพัฒนา: หุบเขาแห่งการลืมเลือน",
         },
         alias_of: "domain_mastery_forsaken_rift",
         day_of_week: ["mon", "thu", "sun"],
         resin: 20,
+        type: "domain",
     },
     {
         name: "domain_mastery_forsaken_rift_tue_fri",
         fullname: {
             en: "Domain of Mastery: Forsaken Rift",
+            th: "ดันเจี้ยนแห่งการพัฒนา: หุบเขาแห่งการลืมเลือน",
         },
         alias_of: "domain_mastery_forsaken_rift",
         day_of_week: ["tue", "fri", "sun"],
         resin: 20,
+        type: "domain",
     },
     {
         name: "domain_mastery_forsaken_rift_wed_sat",
         fullname: {
             en: "Domain of Mastery: Forsaken Rift",
+            th: "ดันเจี้ยนแห่งการพัฒนา: หุบเขาแห่งการลืมเลือน",
         },
         alias_of: "domain_mastery_forsaken_rift",
         day_of_week: ["wed", "sat", "sun"],
         resin: 20,
+        type: "domain",
     },
     {
         name: "domain_mastery_taishan_mansion",
         fullname: {
             en: "Domain of Mastery: Taishan Mansion",
+            th: "ดันเจี้ยนแห่งการพัฒนา: วัง Taishan Mansion",
         },
         day_of_week: null,
         resin: 20,
+        type: "domain",
     },
     {
         name: "domain_mastery_taishan_mansion_mon_thu",
         fullname: {
             en: "Domain of Mastery: Taishan Mansion",
+            th: "ดันเจี้ยนแห่งการพัฒนา: วัง Taishan Mansion",
         },
         alias_of: "domain_mastery_taishan_mansion",
         day_of_week: ["mon", "thu", "sun"],
         resin: 20,
+        type: "domain",
     },
     {
         name: "domain_mastery_taishan_mansion_tue_fri",
         fullname: {
             en: "Domain of Mastery: Taishan Mansion",
+            th: "ดันเจี้ยนแห่งการพัฒนา: วัง Taishan Mansion",
         },
         alias_of: "domain_mastery_taishan_mansion",
         day_of_week: ["tue", "fri", "sun"],
         resin: 20,
+        type: "domain",
     },
     {
         name: "domain_mastery_taishan_mansion_wed_sat",
         fullname: {
             en: "Domain of Mastery: Taishan Mansion",
+            th: "ดันเจี้ยนแห่งการพัฒนา: วัง Taishan Mansion",
         },
         alias_of: "domain_mastery_taishan_mansion",
         day_of_week: ["wed", "sat", "sun"],
         resin: 20,
+        type: "domain",
     },
 
     {
         name: "domain_forgery_cecilia_garden",
         fullname: {
             en: "Domain of Forgery: Cecilia Garden",
+            th: "ดันเจี้ยนแห่งการต่อสู้: สวนดอก Cecilia",
         },
         day_of_week: null,
         resin: 20,
+        type: "domain",
     },
     {
         name: "domain_forgery_cecilia_garden_mon_thu",
         fullname: {
             en: "Domain of Forgery: Cecilia Garden",
+            th: "ดันเจี้ยนแห่งการต่อสู้: สวนดอก Cecilia",
         },
         alias_of: "domain_forgery_cecilia_garden",
         day_of_week: ["mon", "thu", "sun"],
         resin: 20,
+        type: "domain",
     },
     {
         name: "domain_forgery_cecilia_garden_tue_fri",
         fullname: {
             en: "Domain of Forgery: Cecilia Garden",
+            th: "ดันเจี้ยนแห่งการต่อสู้: สวนดอก Cecilia",
         },
         alias_of: "domain_forgery_cecilia_garden",
         day_of_week: ["tue", "fri", "sun"],
         resin: 20,
+        type: "domain",
     },
     {
         name: "domain_forgery_cecilia_garden_wed_sat",
         fullname: {
             en: "Domain of Forgery: Cecilia Garden",
+            th: "ดันเจี้ยนแห่งการต่อสู้: สวนดอก Cecilia",
         },
         alias_of: "domain_forgery_cecilia_garden",
         day_of_week: ["wed", "sat", "sun"],
         resin: 20,
+        type: "domain",
     },
     {
         name: "domain_forgery_hidden_palace_of_lianshan_formula",
         fullname: {
             en: "Domain of Forgery: Hidden Palace of Lianshan Formula",
+            th: "ดันเจี้ยนแห่งการต่อสู้: ราชวังลับแห่ง Lianshan Formula",
         },
         day_of_week: null,
         resin: 20,
+        type: "domain",
     },
     {
         name: "domain_forgery_hidden_palace_of_lianshan_formula_mon_thu",
         fullname: {
             en: "Domain of Forgery: Hidden Palace of Lianshan Formula",
+            th: "ดันเจี้ยนแห่งการต่อสู้: ราชวังลับแห่ง Lianshan Formula",
         },
         alias_of: "domain_forgery_hidden_palace_of_lianshan_formula",
         day_of_week: ["mon", "thu", "sun"],
         resin: 20,
+        type: "domain",
     },
     {
         name: "domain_forgery_hidden_palace_of_lianshan_formula_tue_fri",
         fullname: {
             en: "Domain of Forgery: Hidden Palace of Lianshan Formula",
+            th: "ดันเจี้ยนแห่งการต่อสู้: ราชวังลับแห่ง Lianshan Formula",
         },
         alias_of: "domain_forgery_hidden_palace_of_lianshan_formula",
         day_of_week: ["tue", "fri", "sun"],
         resin: 20,
+        type: "domain",
     },
     {
         name: "domain_forgery_hidden_palace_of_lianshan_formula_wed_sat",
         fullname: {
             en: "Domain of Forgery: Hidden Palace of Lianshan Formula",
+            th: "ดันเจี้ยนแห่งการต่อสู้: ราชวังลับแห่ง Lianshan Formula",
         },
         alias_of: "domain_forgery_hidden_palace_of_lianshan_formula",
         day_of_week: ["wed", "sat", "sun"],
         resin: 20,
+        type: "domain",
     },
 
     {
         name: "domain_blessing_midsummer_courtyard",
         fullname: {
             en: "Domain of Blessing: Midsummer Courtyard",
+            th: "ดันเจี้ยนแห่งพร: สวนฤดูร้อน",
         },
         day_of_week: null,
         resin: 20,
+        type: "domain",
     },
     {
         name: "domain_blessing_valley_of_remembrance",
         fullname: {
             en: "Domain of Blessing: Valley of Remembrance",
+            th: "ดันเจี้ยนแห่งพร: หุบเขาแห่งความทรงจำ",
         },
         day_of_week: null,
         resin: 20,
+        type: "domain",
     },
     {
         name: "domain_blessing_hidden_palace_of_zhou_formula",
         fullname: {
             en: "Domain of Blessing: Hidden Palace of Zhou Formula",
+            th: "ดันเจี้ยนแห่งพร: ราชวังลับแห่ง Zhou Formula",
         },
         day_of_week: null,
         resin: 20,
+        type: "domain",
     },
     {
         name: "domain_blessing_clear_pool_and_mountain_cavern",
         fullname: {
             en: "Domain of Blessing: Clear Pool and Mountain Cavern",
+            th: "ดันเจี้ยนแห่งพร: สระน้ำและถ้ำบนภูเขา",
         },
         day_of_week: null,
         resin: 20,
+        type: "domain",
     },
     {
         name: "domain_blessing_domain_of_guyun",
         fullname: {
             en: "Domain of Blessing: Domain of Guyun",
+            th: "ดันเจี้ยนแห่งพร: ดันเจี้ยนแห่ง Guyun",
         },
         day_of_week: null,
         resin: 20,
+        type: "domain",
     },
 
     {
         name: "challenge_confront_stormterror",
         fullname: {
             en: "Challenge: Confront Stormterror",
+            th: "ท้าทาย: เผชิญหน้า Stormterror",
         },
         day_of_week: null,
         resin: 20,
@@ -630,6 +706,7 @@ export const farming_spot = [
         name: "challenge_wolf_of_the_north",
         fullname: {
             en: "Challenge: Wolf of the North",
+            th: "ท้าทาย: Wolf of the North"
         },
         day_of_week: null,
         resin: 20,
@@ -639,6 +716,7 @@ export const farming_spot = [
         name: "world_harvest_mondstadt",
         fullname: {
             en: "World Harvest: Mondstadt",
+            th: "เก็บเกี่ยว: Mondstadt",
         },
         day_of_week: null,
         resin: null,
@@ -647,6 +725,7 @@ export const farming_spot = [
         name: "world_harvest_liyue",
         fullname: {
             en: "World Harvest: Liyue",
+            th: "เก็บเกี่ยว: Liyue",
         },
         day_of_week: null,
         resin: null,
@@ -655,6 +734,7 @@ export const farming_spot = [
         name: "world_mob",
         fullname: {
             en: "World Mob: Common Enemy",
+            th: "มอนสเตอร์: มอนสเตอร์ทั่วไป",
         },
         day_of_week: null,
         resin: null,
@@ -663,6 +743,7 @@ export const farming_spot = [
         name: "world_miniboss",
         fullname: {
             en: "World Mob: World Miniboss",
+            th: "มอนสเตอร์: มินิบอส",
         },
         day_of_week: null,
         resin: null,
@@ -671,6 +752,7 @@ export const farming_spot = [
         name: "world_boss",
         fullname: {
             en: "World Mob: World Boss",
+            th: "มอนสเตอร์: เวิลด์บอส",
         },
         day_of_week: null,
         resin: 40,
@@ -680,6 +762,7 @@ export const farming_spot = [
         name: "adventure_rank",
         fullname: {
             en: "Questing: Adventure Rank",
+            th: "เควสต์: แรงก์ผจญภัย",
         },
         day_of_week: null,
         resin: null,
@@ -688,6 +771,7 @@ export const farming_spot = [
         name: "story_quest",
         fullname: {
             en: "Questing: Story Quest",
+            th: "เควสต์: แรงก์ผจญภัย",
         },
         day_of_week: null,
         resin: null,
@@ -696,6 +780,7 @@ export const farming_spot = [
         name: "world_quest",
         fullname: {
             en: "Questing: World Quest",
+            th: "เควสต์: คำขอที่ได้รับมอบหมาย",
         },
         day_of_week: null,
         resin: null,
@@ -704,6 +789,7 @@ export const farming_spot = [
         name: "world_treasure",
         fullname: {
             en: "Questing: World Treasure",
+            th: "เควสต์: หีบสมบัติ",
         },
         day_of_week: null,
         resin: null,
