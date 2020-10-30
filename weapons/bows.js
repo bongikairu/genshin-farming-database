@@ -1,7 +1,9 @@
 export default [
     {
         "name": "amos_bow",
-        "fullname": "Amos' Bow",
+        "fullname": {
+            "en": "Amos' Bow",
+        },
         "type": "bow",
         "rarity": 5,
         "ascension": [
@@ -12,7 +14,9 @@ export default [
     },
     {
         "name": "skyward_harp",
-        "fullname": "Skyward Harp",
+        "fullname": {
+            "en": "Skyward Harp",
+        },
         "type": "bow",
         "rarity": 5,
         "ascension": [
@@ -23,7 +27,9 @@ export default [
     },
     {
         "name": "compound_bow",
-        "fullname": "Compound Bow",
+        "fullname": {
+            "en": "Compound Bow",
+        },
         "type": "bow",
         "rarity": 4,
         "ascension": [
@@ -34,7 +40,9 @@ export default [
     },
     {
         "name": "blackcliff_warbow",
-        "fullname": "Blackcliff Warbow",
+        "fullname": {
+            "en": "Blackcliff Warbow",
+        },
         "type": "bow",
         "rarity": 4,
         "ascension": [
@@ -45,7 +53,9 @@ export default [
     },
     {
         "name": "the_viridescent_hunt",
-        "fullname": "The Viridescent Hunt",
+        "fullname": {
+            "en": "The Viridescent Hunt",
+        },
         "type": "bow",
         "rarity": 4,
         "ascension": [
@@ -56,7 +66,9 @@ export default [
     },
     {
         "name": "prototype_crescent",
-        "fullname": "Prototype Crescent",
+        "fullname": {
+            "en": "Prototype Crescent",
+        },
         "type": "bow",
         "rarity": 4,
         "ascension": [
@@ -67,7 +79,9 @@ export default [
     },
     {
         "name": "sacrificial_bow",
-        "fullname": "Sacrificial Bow",
+        "fullname": {
+            "en": "Sacrificial Bow",
+        },
         "type": "bow",
         "rarity": 4,
         "ascension": [
@@ -78,7 +92,9 @@ export default [
     },
     {
         "name": "alley_hunter",
-        "fullname": "Alley Hunter",
+        "fullname": {
+            "en": "Alley Hunter",
+        },
         "type": "bow",
         "rarity": 4,
         "ascension": [
@@ -89,7 +105,9 @@ export default [
     },
     {
         "name": "rust",
-        "fullname": "Rust",
+        "fullname": {
+            "en": "Rust",
+        },
         "type": "bow",
         "rarity": 4,
         "ascension": [
@@ -100,7 +118,9 @@ export default [
     },
     {
         "name": "the_stringless",
-        "fullname": "The Stringless",
+        "fullname": {
+            "en": "The Stringless",
+        },
         "type": "bow",
         "rarity": 4,
         "ascension": [
@@ -111,14 +131,18 @@ export default [
     },
     {
         "name": "royal_bow",
-        "fullname": "Royal Bow",
+        "fullname": {
+            "en": "Royal Bow",
+        },
         "type": "bow",
         "rarity": 4,
         "ascension": []
     },
     {
         "name": "favonius_warbow",
-        "fullname": "Favonius Warbow",
+        "fullname": {
+            "en": "Favonius Warbow",
+        },
         "type": "bow",
         "rarity": 4,
         "ascension": [
@@ -129,7 +153,9 @@ export default [
     },
     {
         "name": "sharpshooter_oath",
-        "fullname": "Sharpshooter's Oath",
+        "fullname": {
+            "en": "Sharpshooter's Oath",
+        },
         "type": "bow",
         "rarity": 3,
         "ascension": [
@@ -140,7 +166,9 @@ export default [
     },
     {
         "name": "slingshot",
-        "fullname": "Slingshot",
+        "fullname": {
+            "en": "Slingshot",
+        },
         "type": "bow",
         "rarity": 3,
         "ascension": [
@@ -151,7 +179,9 @@ export default [
     },
     {
         "name": "raven_bow",
-        "fullname": "Raven Bow",
+        "fullname": {
+            "en": "Raven Bow",
+        },
         "type": "bow",
         "rarity": 3,
         "ascension": [
@@ -162,14 +192,18 @@ export default [
     },
     {
         "name": "ebony_bow",
-        "fullname": "Ebony Bow",
+        "fullname": {
+            "en": "Ebony Bow",
+        },
         "type": "bow",
         "rarity": 3,
         "ascension": []
     },
     {
         "name": "messenger",
-        "fullname": "Messenger",
+        "fullname": {
+            "en": "Messenger",
+        },
         "type": "bow",
         "rarity": 3,
         "ascension": [
@@ -180,7 +214,9 @@ export default [
     },
     {
         "name": "recurve_bow",
-        "fullname": "Recurve Bow",
+        "fullname": {
+            "en": "Recurve Bow",
+        },
         "type": "bow",
         "rarity": 3,
         "ascension": [
@@ -191,7 +227,9 @@ export default [
     },
     {
         "name": "seasoned_hunter_bow",
-        "fullname": "Seasoned Hunter's Bow",
+        "fullname": {
+            "en": "Seasoned Hunter's Bow",
+        },
         "type": "bow",
         "rarity": 2,
         "ascension": [
@@ -202,7 +240,9 @@ export default [
     },
     {
         "name": "hunter_bow",
-        "fullname": "Hunter's Bow",
+        "fullname": {
+            "en": "Hunter's Bow",
+        },
         "type": "bow",
         "rarity": 1,
         "ascension": [

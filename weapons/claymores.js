@@ -1,7 +1,9 @@
 export default [
     {
         "name": "skyward_pride",
-        "fullname": "Skyward Pride",
+        "fullname": {
+            "en": "Skyward Pride",
+        },
         "type": "claymore",
         "rarity": 5,
         "ascension": [
@@ -12,7 +14,9 @@ export default [
     },
     {
         "name": "wolf_gravestone",
-        "fullname": "Wolf's Gravestone",
+        "fullname": {
+            "en": "Wolf's Gravestone",
+        },
         "type": "claymore",
         "rarity": 5,
         "ascension": [
@@ -23,7 +27,9 @@ export default [
     },
     {
         "name": "sacrificial_greatsword",
-        "fullname": "Sacrificial Greatsword",
+        "fullname": {
+            "en": "Sacrificial Greatsword",
+        },
         "type": "claymore",
         "rarity": 4,
         "ascension": [
@@ -34,7 +40,9 @@ export default [
     },
     {
         "name": "the_bell",
-        "fullname": "The Bell",
+        "fullname": {
+            "en": "The Bell",
+        },
         "type": "claymore",
         "rarity": 4,
         "ascension": [
@@ -45,21 +53,27 @@ export default [
     },
     {
         "name": "lithic_blade",
-        "fullname": "Lithic Blade",
+        "fullname": {
+            "en": "Lithic Blade",
+        },
         "type": "claymore",
         "rarity": 4,
         "ascension": []
     },
     {
         "name": "blackcliff_slasher",
-        "fullname": "Blackcliff Slasher",
+        "fullname": {
+            "en": "Blackcliff Slasher",
+        },
         "type": "claymore",
         "rarity": 4,
         "ascension": []
     },
     {
         "name": "serpent_spine",
-        "fullname": "Serpent Spine",
+        "fullname": {
+            "en": "Serpent Spine",
+        },
         "type": "claymore",
         "rarity": 4,
         "ascension": [
@@ -70,7 +84,9 @@ export default [
     },
     {
         "name": "whiteblind",
-        "fullname": "Whiteblind",
+        "fullname": {
+            "en": "Whiteblind",
+        },
         "type": "claymore",
         "rarity": 4,
         "ascension": [
@@ -81,7 +97,9 @@ export default [
     },
     {
         "name": "royal_greatsword",
-        "fullname": "Royal Greatsword",
+        "fullname": {
+            "en": "Royal Greatsword",
+        },
         "type": "claymore",
         "rarity": 4,
         "ascension": [
@@ -92,7 +110,9 @@ export default [
     },
     {
         "name": "rainslasher",
-        "fullname": "Rainslasher",
+        "fullname": {
+            "en": "Rainslasher",
+        },
         "type": "claymore",
         "rarity": 4,
         "ascension": [
@@ -103,7 +123,9 @@ export default [
     },
     {
         "name": "prototype_aminus",
-        "fullname": "Prototype Aminus",
+        "fullname": {
+            "en": "Prototype Aminus",
+        },
         "type": "claymore",
         "rarity": 4,
         "ascension": [
@@ -114,7 +136,9 @@ export default [
     },
     {
         "name": "favonius_greatsword",
-        "fullname": "Favonius Greatsword",
+        "fullname": {
+            "en": "Favonius Greatsword",
+        },
         "type": "claymore",
         "rarity": 4,
         "ascension": [
@@ -125,7 +149,9 @@ export default [
     },
     {
         "name": "skyrider_greatsword",
-        "fullname": "Skyrider Greatsword",
+        "fullname": {
+            "en": "Skyrider Greatsword",
+        },
         "type": "claymore",
         "rarity": 3,
         "ascension": [
@@ -136,14 +162,18 @@ export default [
     },
     {
         "name": "quartz",
-        "fullname": "Quartz",
+        "fullname": {
+            "en": "Quartz",
+        },
         "type": "claymore",
         "rarity": 3,
         "ascension": []
     },
     {
         "name": "white_iron_greatsword",
-        "fullname": "White Iron Greatsword",
+        "fullname": {
+            "en": "White Iron Greatsword",
+        },
         "type": "claymore",
         "rarity": 3,
         "ascension": [
@@ -154,7 +184,9 @@ export default [
     },
     {
         "name": "ferrous_shadow",
-        "fullname": "Ferrous Shadow",
+        "fullname": {
+            "en": "Ferrous Shadow",
+        },
         "type": "claymore",
         "rarity": 3,
         "ascension": [
@@ -165,7 +197,9 @@ export default [
     },
     {
         "name": "debate_club",
-        "fullname": "Debate Club",
+        "fullname": {
+            "en": "Debate Club",
+        },
         "type": "claymore",
         "rarity": 3,
         "ascension": [
@@ -176,7 +210,9 @@ export default [
     },
     {
         "name": "bloodtainted_greatsword",
-        "fullname": "Bloodtainted Greatsword",
+        "fullname": {
+            "en": "Bloodtainted Greatsword",
+        },
         "type": "claymore",
         "rarity": 3,
         "ascension": [
@@ -187,7 +223,9 @@ export default [
     },
     {
         "name": "old_merc_pal",
-        "fullname": "Old Merc's Pal",
+        "fullname": {
+            "en": "Old Merc's Pal",
+        },
         "type": "claymore",
         "rarity": 2,
         "ascension": [
@@ -198,7 +236,9 @@ export default [
     },
     {
         "name": "waster_greatsword",
-        "fullname": "Waster Greatsword",
+        "fullname": {
+            "en": "Waster Greatsword",
+        },
         "type": "claymore",
         "rarity": 1,
         "ascension": [

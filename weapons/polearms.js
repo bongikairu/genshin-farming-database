@@ -1,7 +1,9 @@
 export default [
     {
         "name": "primordial_jade_winged-spear",
-        "fullname": "Primordial Jade Winged-Spear",
+        "fullname": {
+            "en": "Primordial Jade Winged-Spear",
+        },
         "type": "polearm",
         "rarity": 5,
         "ascension": [
@@ -12,14 +14,18 @@ export default [
     },
     {
         "name": "kunwu_iris_rift",
-        "fullname": "Kunwu's Iris Rift",
+        "fullname": {
+            "en": "Kunwu's Iris Rift",
+        },
         "type": "polearm",
         "rarity": 5,
         "ascension": []
     },
     {
         "name": "skyward_spine",
-        "fullname": "Skyward Spine",
+        "fullname": {
+            "en": "Skyward Spine",
+        },
         "type": "polearm",
         "rarity": 5,
         "ascension": [
@@ -30,7 +36,9 @@ export default [
     },
     {
         "name": "crescent_pike",
-        "fullname": "Crescent Pike",
+        "fullname": {
+            "en": "Crescent Pike",
+        },
         "type": "polearm",
         "rarity": 4,
         "ascension": [
@@ -41,14 +49,18 @@ export default [
     },
     {
         "name": "blackcliff_pole",
-        "fullname": "Blackcliff Pole",
+        "fullname": {
+            "en": "Blackcliff Pole",
+        },
         "type": "polearm",
         "rarity": 4,
         "ascension": []
     },
     {
         "name": "dragon_bane",
-        "fullname": "Dragon's Bane",
+        "fullname": {
+            "en": "Dragon's Bane",
+        },
         "type": "polearm",
         "rarity": 4,
         "ascension": [
@@ -59,7 +71,9 @@ export default [
     },
     {
         "name": "prototype_grudge",
-        "fullname": "Prototype Grudge",
+        "fullname": {
+            "en": "Prototype Grudge",
+        },
         "type": "polearm",
         "rarity": 4,
         "ascension": [
@@ -70,7 +84,9 @@ export default [
     },
     {
         "name": "deathmatch",
-        "fullname": "Deathmatch",
+        "fullname": {
+            "en": "Deathmatch",
+        },
         "type": "polearm",
         "rarity": 4,
         "ascension": [
@@ -81,14 +97,18 @@ export default [
     },
     {
         "name": "lithic_spear",
-        "fullname": "Lithic Spear",
+        "fullname": {
+            "en": "Lithic Spear",
+        },
         "type": "polearm",
         "rarity": 4,
         "ascension": []
     },
     {
         "name": "favonius_lance",
-        "fullname": "Favonius Lance",
+        "fullname": {
+            "en": "Favonius Lance",
+        },
         "type": "polearm",
         "rarity": 4,
         "ascension": [
@@ -99,7 +119,9 @@ export default [
     },
     {
         "name": "black_tassel",
-        "fullname": "Black Tassel",
+        "fullname": {
+            "en": "Black Tassel",
+        },
         "type": "polearm",
         "rarity": 3,
         "ascension": [
@@ -110,7 +132,9 @@ export default [
     },
     {
         "name": "white_tassel",
-        "fullname": "White Tassel",
+        "fullname": {
+            "en": "White Tassel",
+        },
         "type": "polearm",
         "rarity": 3,
         "ascension": [
@@ -121,7 +145,9 @@ export default [
     },
     {
         "name": "halberd",
-        "fullname": "Halberd",
+        "fullname": {
+            "en": "Halberd",
+        },
         "type": "polearm",
         "rarity": 3,
         "ascension": [
@@ -132,7 +158,9 @@ export default [
     },
     {
         "name": "iron_point",
-        "fullname": "Iron Point",
+        "fullname": {
+            "en": "Iron Point",
+        },
         "type": "polearm",
         "rarity": 2,
         "ascension": [
@@ -143,7 +171,9 @@ export default [
     },
     {
         "name": "beginner_protector",
-        "fullname": "Beginner's Protector",
+        "fullname": {
+            "en": "Beginner's Protector",
+        },
         "type": "polearm",
         "rarity": 1,
         "ascension": [

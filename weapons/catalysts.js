@@ -1,7 +1,9 @@
 export default [
     {
         "name": "skyward_atlas",
-        "fullname": "Skyward Atlas",
+        "fullname": {
+            "en": "Skyward Atlas",
+        },
         "type": "catalyst",
         "rarity": 5,
         "ascension": [
@@ -12,7 +14,9 @@ export default [
     },
     {
         "name": "lost_prayer_to_the_sacred_winds",
-        "fullname": "Lost Prayer to the Sacred Winds",
+        "fullname": {
+            "en": "Lost Prayer to the Sacred Winds",
+        },
         "type": "catalyst",
         "rarity": 5,
         "ascension": [
@@ -23,7 +27,9 @@ export default [
     },
     {
         "name": "eye_of_perception",
-        "fullname": "Eye of Perception",
+        "fullname": {
+            "en": "Eye of Perception",
+        },
         "type": "catalyst",
         "rarity": 4,
         "ascension": [
@@ -34,14 +40,18 @@ export default [
     },
     {
         "name": "blackcliff_amulet",
-        "fullname": "Blackcliff Amulet",
+        "fullname": {
+            "en": "Blackcliff Amulet",
+        },
         "type": "catalyst",
         "rarity": 4,
         "ascension": []
     },
     {
         "name": "favonius_codex",
-        "fullname": "Favonius Codex",
+        "fullname": {
+            "en": "Favonius Codex",
+        },
         "type": "catalyst",
         "rarity": 4,
         "ascension": [
@@ -52,7 +62,9 @@ export default [
     },
     {
         "name": "mappa_mare",
-        "fullname": "Mappa Mare",
+        "fullname": {
+            "en": "Mappa Mare",
+        },
         "type": "catalyst",
         "rarity": 4,
         "ascension": [
@@ -63,7 +75,9 @@ export default [
     },
     {
         "name": "prototype_malice",
-        "fullname": "Prototype Malice",
+        "fullname": {
+            "en": "Prototype Malice",
+        },
         "type": "catalyst",
         "rarity": 4,
         "ascension": [
@@ -74,7 +88,9 @@ export default [
     },
     {
         "name": "royal_grimoire",
-        "fullname": "Royal Grimoire",
+        "fullname": {
+            "en": "Royal Grimoire",
+        },
         "type": "catalyst",
         "rarity": 4,
         "ascension": [
@@ -85,7 +101,9 @@ export default [
     },
     {
         "name": "sacrificial_fragments",
-        "fullname": "Sacrificial Fragments",
+        "fullname": {
+            "en": "Sacrificial Fragments",
+        },
         "type": "catalyst",
         "rarity": 4,
         "ascension": [
@@ -96,7 +114,9 @@ export default [
     },
     {
         "name": "solar_pearl",
-        "fullname": "Solar Pearl",
+        "fullname": {
+            "en": "Solar Pearl",
+        },
         "type": "catalyst",
         "rarity": 4,
         "ascension": [
@@ -107,7 +127,9 @@ export default [
     },
     {
         "name": "the_widsith",
-        "fullname": "The Widsith",
+        "fullname": {
+            "en": "The Widsith",
+        },
         "type": "catalyst",
         "rarity": 4,
         "ascension": [
@@ -118,7 +140,9 @@ export default [
     },
     {
         "name": "wine_and_song",
-        "fullname": "Wine and Song",
+        "fullname": {
+            "en": "Wine and Song",
+        },
         "type": "catalyst",
         "rarity": 4,
         "ascension": [
@@ -129,7 +153,9 @@ export default [
     },
     {
         "name": "twin_nephrite",
-        "fullname": "Twin Nephrite",
+        "fullname": {
+            "en": "Twin Nephrite",
+        },
         "type": "catalyst",
         "rarity": 3,
         "ascension": [
@@ -140,14 +166,18 @@ export default [
     },
     {
         "name": "amber_catalyst",
-        "fullname": "Amber Catalyst",
+        "fullname": {
+            "en": "Amber Catalyst",
+        },
         "type": "catalyst",
         "rarity": 3,
         "ascension": []
     },
     {
         "name": "thrilling_tales_of_dragon_slayers",
-        "fullname": "Thrilling Tales of Dragon Slayers",
+        "fullname": {
+            "en": "Thrilling Tales of Dragon Slayers",
+        },
         "type": "catalyst",
         "rarity": 3,
         "ascension": [
@@ -158,7 +188,9 @@ export default [
     },
     {
         "name": "magic_guide",
-        "fullname": "Magic Guide",
+        "fullname": {
+            "en": "Magic Guide",
+        },
         "type": "catalyst",
         "rarity": 3,
         "ascension": [
@@ -169,7 +201,9 @@ export default [
     },
     {
         "name": "emerald_orb",
-        "fullname": "Emerald Orb",
+        "fullname": {
+            "en": "Emerald Orb",
+        },
         "type": "catalyst",
         "rarity": 3,
         "ascension": [
@@ -180,7 +214,9 @@ export default [
     },
     {
         "name": "otherworldly_story",
-        "fullname": "Otherworldly Story",
+        "fullname": {
+            "en": "Otherworldly Story",
+        },
         "type": "catalyst",
         "rarity": 3,
         "ascension": [
@@ -191,7 +227,9 @@ export default [
     },
     {
         "name": "pocket_grimoire",
-        "fullname": "Pocket Grimoire",
+        "fullname": {
+            "en": "Pocket Grimoire",
+        },
         "type": "catalyst",
         "rarity": 2,
         "ascension": [
@@ -202,7 +240,9 @@ export default [
     },
     {
         "name": "apprentice_notes",
-        "fullname": "Apprentice's Notes",
+        "fullname": {
+            "en": "Apprentice's Notes",
+        },
         "type": "catalyst",
         "rarity": 1,
         "ascension": [

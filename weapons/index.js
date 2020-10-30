@@ -1,3 +1,5 @@
+import {getFullnameInCurrentLanguage} from "../../language";
+
 const bows = require('./bows').default;
 const catalysts = require('./catalysts').default;
 const claymores = require('./claymores').default;
@@ -27,7 +29,7 @@ for (let wep of weapon_data) {
         ...weapon_option[wep.type],
         {
             value: wep.name,
-            label: `${wep.fullname} [${wep.rarity}⭐]`,
+            label: `${getFullnameInCurrentLanguage(wep)} [${wep.rarity}⭐]`,
         }
     ]
 }

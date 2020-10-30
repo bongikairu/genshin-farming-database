@@ -1,7 +1,9 @@
 export const character_data = [
     {
         name: "amber",
-        fullname: "Amber",
+        fullname: {
+            en: "Amber",
+        },
         element: "pyro",
         rarity: 4,
         weapon: "bow",
@@ -18,7 +20,9 @@ export const character_data = [
     },
     {
         name: "barbara",
-        fullname: "Barbara",
+        fullname: {
+            en: "Barbara",
+        },
         element: "hydro",
         rarity: 4,
         weapon: "catalyst",
@@ -35,7 +39,9 @@ export const character_data = [
     },
     {
         name: "beidou",
-        fullname: "Beidou",
+        fullname: {
+            en: "Beidou",
+        },
         element: "electro",
         rarity: 4,
         weapon: "claymore",
@@ -52,7 +58,9 @@ export const character_data = [
     },
     {
         name: "bennett",
-        fullname: "Bennett",
+        fullname: {
+            en: "Bennett",
+        },
         element: "pyro",
         rarity: 4,
         weapon: "sword",
@@ -69,7 +77,9 @@ export const character_data = [
     },
     {
         name: "chongyun",
-        fullname: "Chongyun",
+        fullname: {
+            en: "Chongyun",
+        },
         element: "cryo",
         rarity: 4,
         weapon: "claymore",
@@ -86,7 +96,9 @@ export const character_data = [
     },
     {
         name: "diluc",
-        fullname: "Diluc",
+        fullname: {
+            en: "Diluc",
+        },
         element: "pyro",
         rarity: 5,
         weapon: "claymore",
@@ -103,7 +115,9 @@ export const character_data = [
     },
     {
         name: "fischl",
-        fullname: "Fischl",
+        fullname: {
+            en: "Fischl",
+        },
         element: "electro",
         rarity: 4,
         weapon: "bow",
@@ -120,7 +134,9 @@ export const character_data = [
     },
     {
         name: "jean",
-        fullname: "Jean",
+        fullname: {
+            en: "Jean",
+        },
         element: "anemo",
         rarity: 5,
         weapon: "sword",
@@ -137,7 +153,9 @@ export const character_data = [
     },
     {
         name: "kaeya",
-        fullname: "Kaeya",
+        fullname: {
+            en: "Kaeya",
+        },
         element: "cryo",
         rarity: 4,
         weapon: "sword",
@@ -154,7 +172,9 @@ export const character_data = [
     },
     {
         name: "keqing",
-        fullname: "Keqing",
+        fullname: {
+            en: "Keqing",
+        },
         element: "electro",
         rarity: 5,
         weapon: "sword",
@@ -171,7 +191,9 @@ export const character_data = [
     },
     {
         name: "klee",
-        fullname: "Klee",
+        fullname: {
+            en: "Klee",
+        },
         element: "pyro",
         rarity: 5,
         weapon: "catalyst",
@@ -188,7 +210,9 @@ export const character_data = [
     },
     {
         name: "lisa",
-        fullname: "Lisa",
+        fullname: {
+            en: "Lisa",
+        },
         element: "electro",
         rarity: 4,
         weapon: "catalyst",
@@ -205,7 +229,9 @@ export const character_data = [
     },
     {
         name: "mona",
-        fullname: "Mona",
+        fullname: {
+            en: "Mona",
+        },
         element: "hydro",
         rarity: 5,
         weapon: "catalyst",
@@ -222,7 +248,9 @@ export const character_data = [
     },
     {
         name: "ningguang",
-        fullname: "Ningguang",
+        fullname: {
+            en: "Ningguang",
+        },
         element: "geo",
         rarity: 4,
         weapon: "catalyst",
@@ -239,7 +267,9 @@ export const character_data = [
     },
     {
         name: "noelle",
-        fullname: "Noelle",
+        fullname: {
+            en: "Noelle",
+        },
         element: "geo",
         rarity: 4,
         weapon: "claymore",
@@ -256,7 +286,9 @@ export const character_data = [
     },
     {
         name: "qiqi",
-        fullname: "Qiqi",
+        fullname: {
+            en: "Qiqi",
+        },
         element: "cryo",
         rarity: 5,
         weapon: "sword",
@@ -273,7 +305,9 @@ export const character_data = [
     },
     {
         name: "razor",
-        fullname: "Razor",
+        fullname: {
+            en: "Razor",
+        },
         element: "electro",
         rarity: 4,
         weapon: "claymore",
@@ -290,7 +324,9 @@ export const character_data = [
     },
     {
         name: "sucrose",
-        fullname: "Sucrose",
+        fullname: {
+            en: "Sucrose",
+        },
         element: "anemo",
         rarity: 4,
         weapon: "catalyst",
@@ -307,7 +343,9 @@ export const character_data = [
     },
     {
         name: "traveler_anemo",
-        fullname: "Traveler (Anemo)",
+        fullname: {
+            en: "Traveler (Anemo)",
+        },
         element: "anemo",
         rarity: 5,
         weapon: "sword",
@@ -316,12 +354,13 @@ export const character_data = [
             "windwheel_aster",
             "damaged_mask",
         ],
-        talent: [
-        ],
+        talent: [],
     },
     {
         name: "traveler_geo",
-        fullname: "Traveler (Geo)",
+        fullname: {
+            en: "Traveler (Geo)",
+        },
         element: "geo",
         rarity: 5,
         weapon: "sword",
@@ -330,12 +369,13 @@ export const character_data = [
             "windwheel_aster",
             "damaged_mask",
         ],
-        talent: [
-        ],
+        talent: [],
     },
     {
         name: "venti",
-        fullname: "Venti",
+        fullname: {
+            en: "Venti",
+        },
         element: "anemo",
         rarity: 5,
         weapon: "bow",
@@ -352,7 +392,9 @@ export const character_data = [
     },
     {
         name: "xiangling",
-        fullname: "Xiangling",
+        fullname: {
+            en: "Xiangling",
+        },
         element: "pyro",
         rarity: 4,
         weapon: "polearm",
@@ -369,7 +411,9 @@ export const character_data = [
     },
     {
         name: "xiao",
-        fullname: "Xiao",
+        fullname: {
+            en: "Xiao",
+        },
         element: "anemo",
         rarity: 5,
         weapon: "polearm",
@@ -386,7 +430,9 @@ export const character_data = [
     },
     {
         name: "xingqiu",
-        fullname: "Xingqiu",
+        fullname: {
+            en: "Xingqiu",
+        },
         element: "hydro",
         rarity: 4,
         weapon: "sword",

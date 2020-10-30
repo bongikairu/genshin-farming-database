@@ -1,4 +1,4 @@
-import {LANGUAGE} from "../language";
+import {getFullnameInCurrentLanguage} from "../language";
 
 export const artifact_data = [
     {
@@ -8,7 +8,9 @@ export const artifact_data = [
         },
         item_list: [
             {
-                name: "Artifact",
+                fullname: {
+                    en: "Set",
+                },
                 farm_at: "domain_blessing_midsummer_courtyard"
             },
         ]
@@ -20,7 +22,9 @@ export const artifact_data = [
         },
         item_list: [
             {
-                name: "Artifact",
+                fullname: {
+                    en: "Set",
+                },
                 farm_at: "domain_blessing_domain_of_guyun"
             },
         ]
@@ -32,7 +36,9 @@ export const artifact_data = [
         },
         item_list: [
             {
-                name: "Artifact",
+                fullname: {
+                    en: "Set",
+                },
                 farm_at: "world_boss"
             },
         ]
@@ -44,7 +50,9 @@ export const artifact_data = [
         },
         item_list: [
             {
-                name: "Artifact",
+                fullname: {
+                    en: "Set",
+                },
                 farm_at: "domain_blessing_clear_pool_and_mountain_cavern"
             },
         ]
@@ -56,7 +64,9 @@ export const artifact_data = [
         },
         item_list: [
             {
-                name: "Artifact",
+                fullname: {
+                    en: "Set",
+                },
                 farm_at: "domain_blessing_domain_of_guyun"
             },
         ]
@@ -68,7 +78,9 @@ export const artifact_data = [
         },
         item_list: [
             {
-                name: "Artifact",
+                fullname: {
+                    en: "Set",
+                },
                 farm_at: "domain_blessing_hidden_palace_of_zhou_formula"
             },
         ]
@@ -80,7 +92,9 @@ export const artifact_data = [
         },
         item_list: [
             {
-                name: "Artifact",
+                fullname: {
+                    en: "Set",
+                },
                 farm_at: "domain_blessing_hidden_palace_of_zhou_formula"
             },
         ]
@@ -92,7 +106,9 @@ export const artifact_data = [
         },
         item_list: [
             {
-                name: "Artifact",
+                fullname: {
+                    en: "Set",
+                },
                 farm_at: "domain_blessing_clear_pool_and_mountain_cavern"
             },
         ]
@@ -104,7 +120,9 @@ export const artifact_data = [
         },
         item_list: [
             {
-                name: "Artifact",
+                fullname: {
+                    en: "Set",
+                },
                 farm_at: "world_treasure"
             },
         ]
@@ -116,7 +134,9 @@ export const artifact_data = [
         },
         item_list: [
             {
-                name: "Artifact",
+                fullname: {
+                    en: "Set",
+                },
                 farm_at: "world_boss"
             },
         ]
@@ -128,7 +148,9 @@ export const artifact_data = [
         },
         item_list: [
             {
-                name: "Artifact",
+                fullname: {
+                    en: "Set",
+                },
                 farm_at: "world_treasure"
             },
         ]
@@ -140,7 +162,9 @@ export const artifact_data = [
         },
         item_list: [
             {
-                name: "Artifact",
+                fullname: {
+                    en: "Set",
+                },
                 farm_at: "world_boss"
             },
         ]
@@ -152,7 +176,9 @@ export const artifact_data = [
         },
         item_list: [
             {
-                name: "Artifact",
+                fullname: {
+                    en: "Set",
+                },
                 farm_at: "domain_blessing_hidden_palace_of_zhou_formula"
             },
         ]
@@ -164,7 +190,9 @@ export const artifact_data = [
         },
         item_list: [
             {
-                name: "Artifact",
+                fullname: {
+                    en: "Set",
+                },
                 farm_at: "domain_blessing_domain_of_guyun"
             },
         ]
@@ -176,7 +204,9 @@ export const artifact_data = [
         },
         item_list: [
             {
-                name: "Artifact",
+                fullname: {
+                    en: "Set",
+                },
                 farm_at: "domain_blessing_valley_of_remembrance"
             },
         ]
@@ -188,7 +218,9 @@ export const artifact_data = [
         },
         item_list: [
             {
-                name: "Artifact",
+                fullname: {
+                    en: "Set",
+                },
                 farm_at: "domain_blessing_hidden_palace_of_zhou_formula"
             },
         ]
@@ -200,7 +232,9 @@ export const artifact_data = [
         },
         item_list: [
             {
-                name: "Artifact",
+                fullname: {
+                    en: "Set",
+                },
                 farm_at: "domain_blessing_clear_pool_and_mountain_cavern"
             },
         ]
@@ -212,7 +246,9 @@ export const artifact_data = [
         },
         item_list: [
             {
-                name: "Artifact",
+                fullname: {
+                    en: "Set",
+                },
                 farm_at: "domain_blessing_midsummer_courtyard"
             },
         ]
@@ -224,7 +260,9 @@ export const artifact_data = [
         },
         item_list: [
             {
-                name: "Artifact",
+                fullname: {
+                    en: "Set",
+                },
                 farm_at: "domain_blessing_domain_of_guyun"
             },
         ]
@@ -236,7 +274,9 @@ export const artifact_data = [
         },
         item_list: [
             {
-                name: "Artifact",
+                fullname: {
+                    en: "Set",
+                },
                 farm_at: "domain_blessing_clear_pool_and_mountain_cavern"
             },
         ]
@@ -248,7 +288,9 @@ export const artifact_data = [
         },
         item_list: [
             {
-                name: "Artifact",
+                fullname: {
+                    en: "Set",
+                },
                 farm_at: "world_boss"
             },
         ]
@@ -260,7 +302,9 @@ export const artifact_data = [
         },
         item_list: [
             {
-                name: "Artifact",
+                fullname: {
+                    en: "Set",
+                },
                 farm_at: "domain_blessing_midsummer_courtyard"
             },
         ]
@@ -272,7 +316,9 @@ export const artifact_data = [
         },
         item_list: [
             {
-                name: "Artifact",
+                fullname: {
+                    en: "Set",
+                },
                 farm_at: "domain_blessing_midsummer_courtyard"
             },
         ]
@@ -284,7 +330,9 @@ export const artifact_data = [
         },
         item_list: [
             {
-                name: "Artifact",
+                fullname: {
+                    en: "Set",
+                },
                 farm_at: "domain_blessing_valley_of_remembrance"
             },
         ]
@@ -296,7 +344,9 @@ export const artifact_data = [
         },
         item_list: [
             {
-                name: "Artifact",
+                fullname: {
+                    en: "Set",
+                },
                 farm_at: "domain_blessing_valley_of_remembrance"
             },
         ]
@@ -308,7 +358,9 @@ export const artifact_data = [
         },
         item_list: [
             {
-                name: "Artifact",
+                fullname: {
+                    en: "Set",
+                },
                 farm_at: "domain_blessing_valley_of_remembrance"
             },
         ]
@@ -320,7 +372,9 @@ export const artifact_data = [
         },
         item_list: [
             {
-                name: "Artifact",
+                fullname: {
+                    en: "Set",
+                },
                 farm_at: "world_boss"
             },
         ]
@@ -333,7 +387,9 @@ export const artifact_data = [
         },
         item_list: [
             {
-                name: "Artifact",
+                fullname: {
+                    en: "Set",
+                },
                 farm_at: "pyro_regisvines",
             },
         ]
@@ -345,7 +401,9 @@ export const artifact_data = [
         },
         item_list: [
             {
-                name: "Artifact",
+                fullname: {
+                    en: "Set",
+                },
                 farm_at: "cryo_regisvines",
             },
         ]
@@ -357,7 +415,9 @@ export const artifact_data = [
         },
         item_list: [
             {
-                name: "Artifact",
+                fullname: {
+                    en: "Set",
+                },
                 farm_at: "electro_hypostasis",
             },
         ]
@@ -369,7 +429,9 @@ export const artifact_data = [
         },
         item_list: [
             {
-                name: "Artifact",
+                fullname: {
+                    en: "Set",
+                },
                 farm_at: "oceanid",
             },
         ]
@@ -380,7 +442,13 @@ export const artifact_map = artifact_data.reduce((acc, cur) => ({...acc, [cur.na
 
 export const artifact_option = artifact_data.map((artifact) => ({
     value: artifact.name,
-    label: artifact.fullname[LANGUAGE],
+    label: getFullnameInCurrentLanguage(artifact),
 }));
 
-export const artifact_material = artifact_data.reduce((acc, cur) => ([...acc, ...(cur.item_list.map((titem, i) => ({name: `artifact_${cur.name}_${i}`, fullname: `${cur.fullname[LANGUAGE]} ${titem.name}`, farm_at: titem.farm_at, is_artifact: true, artifact: cur,})))]), []);
+export const artifact_material = artifact_data.reduce((acc, cur) => ([...acc, ...(cur.item_list.map((titem, i) => ({
+    name: `artifact_${cur.name}_${i}`,
+    fullname: `${getFullnameInCurrentLanguage(cur)} ${getFullnameInCurrentLanguage(titem)}`,
+    farm_at: titem.farm_at,
+    is_artifact: true,
+    artifact: cur,
+})))]), []);

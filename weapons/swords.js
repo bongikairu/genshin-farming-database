@@ -1,7 +1,9 @@
 export default [
     {
         "name": "skyward_blade",
-        "fullname": "Skyward Blade",
+        "fullname": {
+            "en": "Skyward Blade",
+        },
         "type": "sword",
         "rarity": 5,
         "ascension": [
@@ -12,7 +14,9 @@ export default [
     },
     {
         "name": "aquila_favonia",
-        "fullname": "Aquila Favonia",
+        "fullname": {
+            "en": "Aquila Favonia",
+        },
         "type": "sword",
         "rarity": 5,
         "ascension": [
@@ -23,28 +27,36 @@ export default [
     },
     {
         "name": "blackcliff_longsword",
-        "fullname": "Blackcliff Longsword",
+        "fullname": {
+            "en": "Blackcliff Longsword",
+        },
         "type": "sword",
         "rarity": 4,
         "ascension": []
     },
     {
         "name": "royal_longsword",
-        "fullname": "Royal Longsword",
+        "fullname": {
+            "en": "Royal Longsword",
+        },
         "type": "sword",
         "rarity": 4,
         "ascension": []
     },
     {
         "name": "the_alley_flash",
-        "fullname": "The Alley Flash",
+        "fullname": {
+            "en": "The Alley Flash",
+        },
         "type": "sword",
         "rarity": 4,
         "ascension": []
     },
     {
         "name": "favonius_sword",
-        "fullname": "Favonius Sword",
+        "fullname": {
+            "en": "Favonius Sword",
+        },
         "type": "sword",
         "rarity": 4,
         "ascension": [
@@ -55,7 +67,9 @@ export default [
     },
     {
         "name": "the_black_sword",
-        "fullname": "The Black Sword",
+        "fullname": {
+            "en": "The Black Sword",
+        },
         "type": "sword",
         "rarity": 4,
         "ascension": [
@@ -66,7 +80,9 @@ export default [
     },
     {
         "name": "the_flute",
-        "fullname": "The Flute",
+        "fullname": {
+            "en": "The Flute",
+        },
         "type": "sword",
         "rarity": 4,
         "ascension": [
@@ -77,7 +93,9 @@ export default [
     },
     {
         "name": "sacrificial_sword",
-        "fullname": "Sacrificial Sword",
+        "fullname": {
+            "en": "Sacrificial Sword",
+        },
         "type": "sword",
         "rarity": 4,
         "ascension": [
@@ -88,7 +106,9 @@ export default [
     },
     {
         "name": "prototype_rancour",
-        "fullname": "Prototype Rancour",
+        "fullname": {
+            "en": "Prototype Rancour",
+        },
         "type": "sword",
         "rarity": 4,
         "ascension": [
@@ -99,7 +119,9 @@ export default [
     },
     {
         "name": "lion_roar",
-        "fullname": "Lion's Roar",
+        "fullname": {
+            "en": "Lion's Roar",
+        },
         "type": "sword",
         "rarity": 4,
         "ascension": [
@@ -110,7 +132,9 @@ export default [
     },
     {
         "name": "iron_sting",
-        "fullname": "Iron Sting",
+        "fullname": {
+            "en": "Iron Sting",
+        },
         "type": "sword",
         "rarity": 4,
         "ascension": [
@@ -121,7 +145,9 @@ export default [
     },
     {
         "name": "sword_of_descension",
-        "fullname": "Sword of Descension",
+        "fullname": {
+            "en": "Sword of Descension",
+        },
         "type": "sword",
         "rarity": 4,
         "ascension": [
@@ -132,7 +158,9 @@ export default [
     },
     {
         "name": "skyrider_sword",
-        "fullname": "Skyrider Sword",
+        "fullname": {
+            "en": "Skyrider Sword",
+        },
         "type": "sword",
         "rarity": 3,
         "ascension": [
@@ -143,7 +171,9 @@ export default [
     },
     {
         "name": "fillet_blade",
-        "fullname": "Fillet Blade",
+        "fullname": {
+            "en": "Fillet Blade",
+        },
         "type": "sword",
         "rarity": 3,
         "ascension": [
@@ -154,7 +184,9 @@ export default [
     },
     {
         "name": "traveler_handy_sword",
-        "fullname": "Traveler's Handy Sword",
+        "fullname": {
+            "en": "Traveler's Handy Sword",
+        },
         "type": "sword",
         "rarity": 3,
         "ascension": [
@@ -165,7 +197,9 @@ export default [
     },
     {
         "name": "harbinger_of_dawn",
-        "fullname": "Harbinger of Dawn",
+        "fullname": {
+            "en": "Harbinger of Dawn",
+        },
         "type": "sword",
         "rarity": 3,
         "ascension": [
@@ -176,7 +210,9 @@ export default [
     },
     {
         "name": "dark_iron_sword",
-        "fullname": "Dark Iron Sword",
+        "fullname": {
+            "en": "Dark Iron Sword",
+        },
         "type": "sword",
         "rarity": 3,
         "ascension": [
@@ -187,7 +223,9 @@ export default [
     },
     {
         "name": "cool_steel",
-        "fullname": "Cool Steel",
+        "fullname": {
+            "en": "Cool Steel",
+        },
         "type": "sword",
         "rarity": 3,
         "ascension": [
@@ -198,7 +236,9 @@ export default [
     },
     {
         "name": "silver_sword",
-        "fullname": "Silver Sword",
+        "fullname": {
+            "en": "Silver Sword",
+        },
         "type": "sword",
         "rarity": 2,
         "ascension": [
@@ -209,7 +249,9 @@ export default [
     },
     {
         "name": "dull_blade",
-        "fullname": "Dull Blade",
+        "fullname": {
+            "en": "Dull Blade",
+        },
         "type": "sword",
         "rarity": 1,
         "ascension": [

@@ -1,9 +1,23 @@
 export const element_fullname_map = {
-    pyro: "Pyro",
-    cryo: "Cryo",
-    anemo: "Anemo️",
-    geo: "Geo",
-    hydro: "Hydro",
-    electro: "Electro",
-    dendro: "Dendro",
+    pyro: {
+        en: "Pyro",
+    },
+    cryo: {
+        en: "Cryo",
+    },
+    anemo: {
+        en: "Anemo️",
+    },
+    geo: {
+        en: "Geo",
+    },
+    hydro: {
+        en: "Hydro",
+    },
+    electro: {
+        en: "Electro",
+    },
+    dendro: {
+        en: "Dendro",
+    },
 }
