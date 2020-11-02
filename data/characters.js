@@ -3,6 +3,7 @@ export const character_data = [
         name: "amber",
         fullname: {
             en: "Amber",
+            ko: "엠버",
         },
         element: "pyro",
         rarity: 4,
@@ -13,15 +14,14 @@ export const character_data = [
             "small_lamp_grass",
             "firm_arrowhead",
         ],
-        talent: [
-            "freedom",
-            "firm_arrowhead",
-        ],
+        talent: ["freedom", "firm_arrowhead"],
     },
     {
         name: "barbara",
         fullname: {
             en: "Barbara",
+            es: "Bárbara",
+            ko: "바바라",
         },
         element: "hydro",
         rarity: 4,
@@ -32,15 +32,13 @@ export const character_data = [
             "philanemo_mushroom",
             "divining_scroll",
         ],
-        talent: [
-            "freedom",
-            "divining_scroll",
-        ],
+        talent: ["freedom", "divining_scroll"],
     },
     {
         name: "beidou",
         fullname: {
             en: "Beidou",
+            ko: "북두",
         },
         element: "electro",
         rarity: 4,
@@ -60,6 +58,7 @@ export const character_data = [
         name: "bennett",
         fullname: {
             en: "Bennett",
+            ko: "베넷",
         },
         element: "pyro",
         rarity: 4,
@@ -79,6 +78,7 @@ export const character_data = [
         name: "chongyun",
         fullname: {
             en: "Chongyun",
+            ko: "중운",
         },
         element: "cryo",
         rarity: 4,
@@ -89,15 +89,13 @@ export const character_data = [
             "cor_lapis",
             "damaged_mask",
         ],
-        talent: [
-            "diligence",
-            "damaged_mask",
-        ],
+        talent: ["diligence", "damaged_mask"],
     },
     {
         name: "diluc",
         fullname: {
             en: "Diluc",
+            ko: "다이루크",
         },
         element: "pyro",
         rarity: 5,
@@ -117,6 +115,7 @@ export const character_data = [
         name: "fischl",
         fullname: {
             en: "Fischl",
+            ko: "피슬",
         },
         element: "electro",
         rarity: 4,
@@ -127,15 +126,13 @@ export const character_data = [
             "small_lamp_grass",
             "firm_arrowhead",
         ],
-        talent: [
-            "ballad",
-            "firm_arrowhead",
-        ],
+        talent: ["ballad", "firm_arrowhead"],
     },
     {
         name: "jean",
         fullname: {
             en: "Jean",
+            ko: "진",
         },
         element: "anemo",
         rarity: 5,
@@ -146,15 +143,13 @@ export const character_data = [
             "dandelion_seed",
             "damaged_mask",
         ],
-        talent: [
-            "resistance",
-            "damaged_mask",
-        ],
+        talent: ["resistance", "damaged_mask"],
     },
     {
         name: "kaeya",
         fullname: {
             en: "Kaeya",
+            ko: "케이아",
         },
         element: "cryo",
         rarity: 4,
@@ -174,6 +169,8 @@ export const character_data = [
         name: "keqing",
         fullname: {
             en: "Keqing",
+            es: "Keching",
+            ko: "각청",
         },
         element: "electro",
         rarity: 5,
@@ -193,6 +190,7 @@ export const character_data = [
         name: "klee",
         fullname: {
             en: "Klee",
+            ko: "클레",
         },
         element: "pyro",
         rarity: 5,
@@ -203,15 +201,13 @@ export const character_data = [
             "philanemo_mushroom",
             "divining_scroll",
         ],
-        talent: [
-            "freedom",
-            "divining_scroll",
-        ],
+        talent: ["freedom", "divining_scroll"],
     },
     {
         name: "lisa",
         fullname: {
             en: "Lisa",
+            ko: "리사",
         },
         element: "electro",
         rarity: 4,
@@ -222,15 +218,13 @@ export const character_data = [
             "valberry",
             "slime_condensate",
         ],
-        talent: [
-            "ballad",
-            "slime_condensate",
-        ],
+        talent: ["ballad", "slime_condensate"],
     },
     {
         name: "mona",
         fullname: {
             en: "Mona",
+            ko: "모나",
         },
         element: "hydro",
         rarity: 5,
@@ -250,6 +244,8 @@ export const character_data = [
         name: "ningguang",
         fullname: {
             en: "Ningguang",
+            es: "Ninguang",
+            ko: "응광",
         },
         element: "geo",
         rarity: 4,
@@ -269,6 +265,7 @@ export const character_data = [
         name: "noelle",
         fullname: {
             en: "Noelle",
+            ko: "노엘",
         },
         element: "geo",
         rarity: 4,
@@ -279,15 +276,13 @@ export const character_data = [
             "valberry",
             "damaged_mask",
         ],
-        talent: [
-            "resistance",
-            "damaged_mask",
-        ],
+        talent: ["resistance", "damaged_mask"],
     },
     {
         name: "qiqi",
         fullname: {
             en: "Qiqi",
+            ko: "치치",
         },
         element: "cryo",
         rarity: 5,
@@ -298,15 +293,13 @@ export const character_data = [
             "violetgrass",
             "divining_scroll",
         ],
-        talent: [
-            "prosperity",
-            "divining_scroll",
-        ],
+        talent: ["prosperity", "divining_scroll"],
     },
     {
         name: "razor",
         fullname: {
             en: "Razor",
+            ko: "레이저",
         },
         element: "electro",
         rarity: 4,
@@ -317,15 +310,14 @@ export const character_data = [
             "wolfhook",
             "damaged_mask",
         ],
-        talent: [
-            "resistance",
-            "damaged_mask",
-        ],
+        talent: ["resistance", "damaged_mask"],
     },
     {
         name: "sucrose",
         fullname: {
             en: "Sucrose",
+            es: "Sacarosa",
+            ko: "설탕",
         },
         element: "anemo",
         rarity: 4,
@@ -345,6 +337,8 @@ export const character_data = [
         name: "traveler_anemo",
         fullname: {
             en: "Traveler (Anemo)",
+            es: "Viajero(Anemo)",
+            ko: "여행자 (바람)",
         },
         element: "anemo",
         rarity: 5,
@@ -360,6 +354,8 @@ export const character_data = [
         name: "traveler_geo",
         fullname: {
             en: "Traveler (Geo)",
+            es: "Viajero(Geo)",
+            ko: "여행자 (바위)",
         },
         element: "geo",
         rarity: 5,
@@ -375,6 +371,7 @@ export const character_data = [
         name: "venti",
         fullname: {
             en: "Venti",
+            ko: "벤티",
         },
         element: "anemo",
         rarity: 5,
@@ -385,15 +382,13 @@ export const character_data = [
             "cecilia",
             "slime_condensate",
         ],
-        talent: [
-            "ballad",
-            "slime_condensate",
-        ],
+        talent: ["ballad", "slime_condensate"],
     },
     {
         name: "xiangling",
         fullname: {
             en: "Xiangling",
+            ko: "향릉",
         },
         element: "pyro",
         rarity: 4,
@@ -404,15 +399,13 @@ export const character_data = [
             "jueyun_chili",
             "slime_condensate",
         ],
-        talent: [
-            "diligence",
-            "slime_condensate",
-        ],
+        talent: ["diligence", "slime_condensate"],
     },
     {
         name: "xiao",
         fullname: {
             en: "Xiao",
+            ko: "소",
         },
         element: "anemo",
         rarity: 5,
@@ -423,15 +416,14 @@ export const character_data = [
             "qingxin",
             "firm_arrowhead",
         ],
-        talent: [
-            "prosperity",
-            "firm_arrowhead",
-        ],
+        talent: ["prosperity", "firm_arrowhead"],
     },
     {
         name: "xingqiu",
         fullname: {
             en: "Xingqiu",
+            es: "Xingchiu",
+            ko: "행추",
         },
         element: "hydro",
         rarity: 4,
@@ -442,63 +434,59 @@ export const character_data = [
             "silk_flower",
             "damaged_mask",
         ],
-        talent: [
-            "gold",
-            "damaged_mask",
-        ],
+        talent: ["gold", "damaged_mask"],
     },
 
     {
         name: "childe",
         fullname: {
             en: "Childe",
+            ko: "타르탈리아",
         },
         element: "hydro",
         rarity: 5,
         weapon: "bow",
-        ascension: [
-        ],
-        talent: [
-        ],
+        ascension: [],
+        talent: [],
     },
     {
         name: "zhongli",
         fullname: {
             en: "Zhongli",
+            ko: "종려",
         },
         element: "geo",
         rarity: 5,
         weapon: "polearm",
-        ascension: [
-        ],
-        talent: [
-        ],
+        ascension: [],
+        talent: [],
     },
     {
         name: "xinyan",
         fullname: {
             en: "Xinyan",
+            ko: "신염",
         },
         element: "pyro",
         rarity: 4,
         weapon: "claymore",
-        ascension: [
-        ],
-        talent: [
-        ],
+        ascension: [],
+        talent: [],
     },
     {
         name: "diona",
         fullname: {
             en: "Diona",
+            ko: "디오나",
         },
         element: "cryo",
         rarity: 4,
         weapon: "bow",
-        ascension: [
-        ],
-        talent: [
-        ],
+        ascension: [],
+        talent: [],
     },
 ];
-export const character_map = character_data.reduce((acc, cur) => ({...acc, [cur.name]: cur}), {});
+export const character_map = character_data.reduce(
+    (acc, cur) => ({ ...acc, [cur.name]: cur }),
+    {}
+);
