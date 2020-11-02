@@ -1,4 +1,4 @@
-import {getFullnameInCurrentLanguage, LANGUAGE} from "../language";
+import {getFullnameInCurrentLanguage, LANGUAGE} from "../language.js";
 
 export const artifact_data = [
     {

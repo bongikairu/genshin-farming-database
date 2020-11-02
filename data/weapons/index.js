@@ -1,10 +1,10 @@
-import {getFullnameInCurrentLanguage} from "../../language";
+import {getFullnameInCurrentLanguage} from "../../language.js";
 
-const bows = require('./bows').default;
-const catalysts = require('./catalysts').default;
-const claymores = require('./claymores').default;
-const polearms = require('./polearms').default;
-const swords = require('./swords').default;
+export const bows = require('./bows').default;
+export const catalysts = require('./catalysts').default;
+export const claymores = require('./claymores').default;
+export const polearms = require('./polearms').default;
+export const swords = require('./swords').default;
 
 export const weapon_data = [
     ...bows,

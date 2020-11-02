@@ -1,11 +1,11 @@
-import {artifact_material} from "./artifacts";
+import {artifact_material} from "./artifacts.js";
 
-export const materials = [
-    ...artifact_material,
+export const farm_material = [
     {
         name: "agnidus_agate",
         fullname: {
             en: "Agnidus Agate",
+            es: "Ágata agnidus",
         },
         farm_at: "pyro_regisvines",
     },
@@ -13,6 +13,7 @@ export const materials = [
         name: "vajrada_amethyst",
         fullname: {
             en: "Vajrada Amethyst",
+            es: "Amatista vajrada",
         },
         farm_at: "electro_hypostasis",
     },
@@ -20,6 +21,7 @@ export const materials = [
         name: "shivada_jade",
         fullname: {
             en: "Shivada Jade",
+            es: "Jade shivada",
         },
         farm_at: "cryo_regisvines",
     },
@@ -27,6 +29,7 @@ export const materials = [
         name: "vayuda_turquoise",
         fullname: {
             en: "Vayuda Turquoise",
+            es: "Turquesa vayuda",
         },
         farm_at: "anemo_hypostasis",
     },
@@ -34,6 +37,7 @@ export const materials = [
         name: "varunada_lazurite",
         fullname: {
             en: "Varunada Lazurite",
+            es: "Lazurita varunada",
         },
         farm_at: "oceanid",
     },
@@ -41,6 +45,7 @@ export const materials = [
         name: "prithiva_topaz",
         fullname: {
             en: "Prithiva Topaz",
+            es: "Topacio prithiva",
         },
         farm_at: "geo_hypostasis",
     },
@@ -49,6 +54,7 @@ export const materials = [
         name: "everflame_seed",
         fullname: {
             en: "Everflame Seed",
+            es: "Semilla de fuego eterno",
         },
         farm_at: "pyro_regisvines",
     },
@@ -56,6 +62,7 @@ export const materials = [
         name: "lightning_prism",
         fullname: {
             en: "Lightning Prism",
+            es: "Prisma de Relámpago",
         },
         farm_at: "electro_hypostasis",
     },
@@ -63,6 +70,7 @@ export const materials = [
         name: "hoarfrost_core",
         fullname: {
             en: "Hoarfrost Core",
+            es: "Núcleo de escarcha",
         },
         farm_at: "cryo_regisvines",
     },
@@ -70,6 +78,7 @@ export const materials = [
         name: "hurricane_seed",
         fullname: {
             en: "Hurricane Seed",
+            es: "Semilla de Huracán",
         },
         farm_at: "anemo_hypostasis",
     },
@@ -77,6 +86,7 @@ export const materials = [
         name: "cleansing_heart",
         fullname: {
             en: "Cleansing Heart",
+            es: "Corazón purificador",
         },
         farm_at: "oceanid",
     },
@@ -84,6 +94,7 @@ export const materials = [
         name: "basalt_pillar",
         fullname: {
             en: "Basalt Pillar",
+            es: "Pilar de Piedra Oscura",
         },
         farm_at: "geo_hypostasis",
     },
@@ -92,6 +103,7 @@ export const materials = [
         name: "windwheel_aster",
         fullname: {
             en: "Windwheel Aster",
+            es: "Margarita voladora",
         },
         farm_at: "world_harvest_mondstadt",
         respawn_rate: "reset_2",
@@ -100,6 +112,7 @@ export const materials = [
         name: "small_lamp_grass",
         fullname: {
             en: "Small Lamp Grass",
+            es: "Lucetta",
         },
         farm_at: "world_harvest_mondstadt",
         respawn_rate: "reset_2",
@@ -108,6 +121,7 @@ export const materials = [
         name: "valberry",
         fullname: {
             en: "Valberry",
+            es: "Valbaya",
         },
         farm_at: "world_harvest_mondstadt",
         respawn_rate: "reset_2",
@@ -116,6 +130,7 @@ export const materials = [
         name: "calla_lily",
         fullname: {
             en: "Calla Lily",
+            es: "Lirio cala",
         },
         farm_at: "world_harvest_mondstadt",
         respawn_rate: "reset_2",
@@ -124,6 +139,7 @@ export const materials = [
         name: "dandelion_seed",
         fullname: {
             en: "Dandelion Seed",
+            es: "Semilla de diente de león",
         },
         farm_at: "world_harvest_mondstadt",
         respawn_rate: "reset_2",
@@ -132,6 +148,7 @@ export const materials = [
         name: "philanemo_mushroom",
         fullname: {
             en: "Philanemo Mushroom",
+            es: "Seta filanemo",
         },
         farm_at: "world_harvest_mondstadt",
         respawn_rate: "reset_2",
@@ -140,6 +157,7 @@ export const materials = [
         name: "wolfhook",
         fullname: {
             en: "Wolfhook",
+            es: "Gancho de lobo",
         },
         farm_at: "world_harvest_mondstadt",
         respawn_rate: "reset_2",
@@ -148,6 +166,7 @@ export const materials = [
         name: "cecilia",
         fullname: {
             en: "Cecilia",
+            es: "Cecilia",
         },
         farm_at: "world_harvest_mondstadt",
         respawn_rate: "reset_2",
@@ -157,6 +176,7 @@ export const materials = [
         name: "jueyun_chili",
         fullname: {
             en: "Jueyun Chili",
+            es: "Chile de Jueyun",
         },
         farm_at: "world_harvest_liyue",
         respawn_rate: "reset_2",
@@ -165,6 +185,7 @@ export const materials = [
         name: "qingxin",
         fullname: {
             en: "Qingxin",
+            es: "Qingxin",
         },
         farm_at: "world_harvest_liyue",
         respawn_rate: "reset_2",
@@ -173,6 +194,7 @@ export const materials = [
         name: "glaze_lily",
         fullname: {
             en: "Glaze Lily",
+            es: "Lirio de cristal",
         },
         farm_at: "world_harvest_liyue",
         respawn_rate: "reset_2",
@@ -181,6 +203,7 @@ export const materials = [
         name: "noctilucous_jade",
         fullname: {
             en: "Noctilucous Jade",
+            es: "Jade noctilucoso",
         },
         farm_at: "world_harvest_liyue",
         respawn_rate: "reset_2",
@@ -189,6 +212,7 @@ export const materials = [
         name: "cor_lapis",
         fullname: {
             en: "Cor Lapis",
+            es: "Cor lapis",
         },
         farm_at: "world_harvest_liyue",
         respawn_rate: "reset_2",
@@ -197,6 +221,7 @@ export const materials = [
         name: "silk_flower",
         fullname: {
             en: "Silk Flower",
+            es: "Flor de Seda",
         },
         farm_at: "world_harvest_liyue",
         respawn_rate: "reset_2",
@@ -205,6 +230,7 @@ export const materials = [
         name: "violetgrass",
         fullname: {
             en: "Violetgrass",
+            es: "Campanita de cristal",
         },
         farm_at: "world_harvest_liyue",
         respawn_rate: "reset_2",
@@ -402,6 +428,11 @@ export const materials = [
         },
         farm_at: "domain_forgery_cecilia_garden_wed_sat"
     },
+];
+
+export const materials = [
+    ...artifact_material,
+    ...farm_material,
 ];
 export const material_map = materials.reduce((acc, cur) => ({...acc, [cur.name]: cur}), {});
 export const material_index_map = materials.reduce((acc, cur, i) => ({...acc, [cur.name]: i}), {});
