@@ -4,6 +4,7 @@ export const character_data = [
         fullname: {
             en: "Amber",
             ko: "엠버",
+            ru: "Эмбер",
         },
         element: "pyro",
         rarity: 4,
@@ -22,6 +23,7 @@ export const character_data = [
             en: "Barbara",
             es: "Bárbara",
             ko: "바바라",
+            ru: "Барбара",
         },
         element: "hydro",
         rarity: 4,
@@ -39,6 +41,7 @@ export const character_data = [
         fullname: {
             en: "Beidou",
             ko: "북두",
+            ru: "Бэй Доу",
         },
         element: "electro",
         rarity: 4,
@@ -59,6 +62,7 @@ export const character_data = [
         fullname: {
             en: "Bennett",
             ko: "베넷",
+            ru: "Беннет",
         },
         element: "pyro",
         rarity: 4,
@@ -79,6 +83,7 @@ export const character_data = [
         fullname: {
             en: "Chongyun",
             ko: "중운",
+            ru: "Чжун Юнь",
         },
         element: "cryo",
         rarity: 4,
@@ -96,6 +101,7 @@ export const character_data = [
         fullname: {
             en: "Diluc",
             ko: "다이루크",
+            ru: "Дилюк",
         },
         element: "pyro",
         rarity: 5,
@@ -116,6 +122,7 @@ export const character_data = [
         fullname: {
             en: "Fischl",
             ko: "피슬",
+            ru: "Фишль",
         },
         element: "electro",
         rarity: 4,
@@ -133,6 +140,7 @@ export const character_data = [
         fullname: {
             en: "Jean",
             ko: "진",
+            ru: "Джинн",
         },
         element: "anemo",
         rarity: 5,
@@ -150,6 +158,7 @@ export const character_data = [
         fullname: {
             en: "Kaeya",
             ko: "케이아",
+            ru: "Кэйа",
         },
         element: "cryo",
         rarity: 4,
@@ -171,6 +180,7 @@ export const character_data = [
             en: "Keqing",
             es: "Keching",
             ko: "각청",
+            ru: "Кэ Цин",
         },
         element: "electro",
         rarity: 5,
@@ -191,6 +201,7 @@ export const character_data = [
         fullname: {
             en: "Klee",
             ko: "클레",
+            ru: "Кли",
         },
         element: "pyro",
         rarity: 5,
@@ -208,6 +219,7 @@ export const character_data = [
         fullname: {
             en: "Lisa",
             ko: "리사",
+            ru: "Лиза",
         },
         element: "electro",
         rarity: 4,
@@ -225,6 +237,7 @@ export const character_data = [
         fullname: {
             en: "Mona",
             ko: "모나",
+            ru: "Мона",
         },
         element: "hydro",
         rarity: 5,
@@ -246,6 +259,7 @@ export const character_data = [
             en: "Ningguang",
             es: "Ninguang",
             ko: "응광",
+            ru: "Нин Гуан",
         },
         element: "geo",
         rarity: 4,
@@ -266,6 +280,7 @@ export const character_data = [
         fullname: {
             en: "Noelle",
             ko: "노엘",
+            ru: "Ноэлль",
         },
         element: "geo",
         rarity: 4,
@@ -283,6 +298,7 @@ export const character_data = [
         fullname: {
             en: "Qiqi",
             ko: "치치",
+            ru: "Ци Ци",
         },
         element: "cryo",
         rarity: 5,
@@ -300,6 +316,7 @@ export const character_data = [
         fullname: {
             en: "Razor",
             ko: "레이저",
+            ru: "Рэйзор",
         },
         element: "electro",
         rarity: 4,
@@ -318,6 +335,7 @@ export const character_data = [
             en: "Sucrose",
             es: "Sacarosa",
             ko: "설탕",
+            ru: "Сахароза",
         },
         element: "anemo",
         rarity: 4,
@@ -339,6 +357,7 @@ export const character_data = [
             en: "Traveler (Anemo)",
             es: "Viajero(Anemo)",
             ko: "여행자 (바람)",
+            ru: "Путешественник (Анемо)",
         },
         element: "anemo",
         rarity: 5,
@@ -356,6 +375,7 @@ export const character_data = [
             en: "Traveler (Geo)",
             es: "Viajero(Geo)",
             ko: "여행자 (바위)",
+            ru: "Путешественник (Гео)",
         },
         element: "geo",
         rarity: 5,
@@ -372,6 +392,7 @@ export const character_data = [
         fullname: {
             en: "Venti",
             ko: "벤티",
+            ru: "Венти",
         },
         element: "anemo",
         rarity: 5,
@@ -389,6 +410,7 @@ export const character_data = [
         fullname: {
             en: "Xiangling",
             ko: "향릉",
+            ru: "Сян Лин",
         },
         element: "pyro",
         rarity: 4,
@@ -406,6 +428,7 @@ export const character_data = [
         fullname: {
             en: "Xiao",
             ko: "소",
+            ru: "Сяо",
         },
         element: "anemo",
         rarity: 5,
@@ -424,6 +447,7 @@ export const character_data = [
             en: "Xingqiu",
             es: "Xingchiu",
             ko: "행추",
+            ru: "Син Цю",
         },
         element: "hydro",
         rarity: 4,
@@ -442,6 +466,7 @@ export const character_data = [
         fullname: {
             en: "Childe",
             ko: "타르탈리아",
+            ru: "Чайлд",
         },
         element: "hydro",
         rarity: 5,
@@ -454,6 +479,7 @@ export const character_data = [
         fullname: {
             en: "Zhongli",
             ko: "종려",
+            ru: "Чжун Ли",
         },
         element: "geo",
         rarity: 5,
@@ -466,6 +492,7 @@ export const character_data = [
         fullname: {
             en: "Xinyan",
             ko: "신염",
+            ru: "Синьян",
         },
         element: "pyro",
         rarity: 4,
@@ -478,6 +505,7 @@ export const character_data = [
         fullname: {
             en: "Diona",
             ko: "디오나",
+            ru: "Диона",
         },
         element: "cryo",
         rarity: 4,
