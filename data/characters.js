@@ -1,5 +1,22 @@
 export const character_data = [
     {
+        name: "albedo",
+        fullname: {
+            en: "Albedo",
+            zhCn: "阿贝多",
+        },
+        element: "geo",
+        rarity: 5,
+        weapon: "sword",
+        ascension: [
+            "prithiva_topaz",
+            "basalt_pillar",
+            "cecilia",
+            "divining_scroll",
+        ],
+        talent: ["ballad", "divining_scroll"],
+    },
+    {
         name: "amber",
         fullname: {
             en: "Amber",
@@ -94,7 +111,7 @@ export const character_data = [
             es: "Childe",
             zhCn: "达达利亚",
             ko: "타르탈리아",
-            ja: "公子",
+            ja: "公子/タルタリヤ",
             id: "Childe",
             vi: "Childe",
             de: "Graf",
@@ -194,6 +211,21 @@ export const character_data = [
             "firm_arrowhead",
         ],
         talent: ["ballad", "firm_arrowhead"],
+    },
+    {
+        name: "ganyu",
+        fullname: {
+            en: "Ganyu",
+            zhCn: "甘雨",
+        },
+        element: "cryo",
+        rarity: 5,
+        weapon: "bow",
+        ascension: [
+            "shivada_jade",
+            "hoarfrost_core",
+        ],
+        talent: [],
     },
     {
         name: "jean",

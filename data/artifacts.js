@@ -725,6 +725,38 @@ export const artifact_data = [
             },
         ],
     },
+    {
+        name: "blizzard_strayer",
+        fullname: {
+            en: "Blizzard Strayer",
+            zhCn: "冰风迷途的勇士",
+        },
+        item_list: [
+            {
+                fullname: {
+                    en: "Set",
+                    th: "Set",
+                },
+                farm_at: "domain_blessing_peak_of_vindagnyr",
+            },
+        ],
+    },
+    {
+        name: "heart_of_depth",
+        fullname: {
+            en: "Heart of Depth",
+            zhCn: "沉沦之心",
+        },
+        item_list: [
+            {
+                fullname: {
+                    en: "Set",
+                    th: "Set",
+                },
+                farm_at: "domain_blessing_peak_of_vindagnyr",
+            },
+        ],
+    },
 ];
 
 export const artifact_map = artifact_data.reduce(

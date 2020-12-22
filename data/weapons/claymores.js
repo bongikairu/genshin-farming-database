@@ -8,7 +8,7 @@ export default [
             zhCn: "天空之傲",
             ko: "천공의 긍지",
             ja: "天空の傲",
-            vi: "Thiên Không Cao Ngạo",
+            vi: "Thiên Không Kiêu Ngạo",
             de: "Stolz des Himmels",
             fr: "Fierté de la Voûte d'Azur",
             ru: "Небесное величие",
@@ -41,6 +41,19 @@ export default [
             "dandelion_gladiator",
             "chaos_device",
             "divining_scroll",
+        ],
+    },
+    {
+        name: "the_unforged",
+        fullname: {
+            en: "The Unforged",
+        },
+        type: "claymore",
+        rarity: 5,
+        ascension: [
+            "mist_veiled_elixir",
+            "mist_grass_pollen",
+            "treasure_hoarder_insignia",
         ],
     },
     {
@@ -246,6 +259,15 @@ export default [
             "chaos_device",
             "recruit_insignia",
         ],
+    },
+    {
+        name: "snowtombed_starsilver",
+        fullname: {
+            en: "Snow-Tombed Starsilver",
+        },
+        type: "claymore",
+        rarity: 4,
+        ascension: [],
     },
     {
         name: "skyrider_greatsword",

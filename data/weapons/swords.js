@@ -42,6 +42,15 @@ export default [
         ],
     },
     {
+        name: "summit_shaper",
+        fullname: {
+            en: "Summit Shaper",
+        },
+        type: "sword",
+        rarity: 5,
+        ascension: [],
+    },
+    {
         name: "blackcliff_longsword",
         fullname: {
             en: "Blackcliff Longsword",
@@ -272,6 +281,15 @@ export default [
             "dead_ley_line_branch",
             "treasure_hoarder_insignia",
         ],
+    },
+    {
+        name: "festering_desire",
+        fullname: {
+            en: "Festering Desire",
+        },
+        type: "sword",
+        rarity: 4,
+        ascension: [],
     },
     {
         name: "skyrider_sword",

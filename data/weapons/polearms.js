@@ -23,17 +23,15 @@ export default [
     {
         name: "kunwu_iris_rift",
         fullname: {
-            en: "Kunwu's Iris Rift",
-            es: "Grieta del Iris de Kunwu",
-            pt: "Perfuradora Prismática",
-            ko: "곤오단홍",
-            ja: "破天の槍",
-            vi: "Giáo Nịnh Thần",
-            ru: "Покоритель вихря",
+            en: "Vortex Vanquisher",
         },
         type: "polearm",
         rarity: 5,
-        ascension: [],
+        ascension: [
+            "aerosiderite",
+            "fragile_bone_shard",
+            "treasure_hoarder_insignia",
+        ],
     },
     {
         name: "skyward_spine",
@@ -196,6 +194,28 @@ export default [
             "chaos_device",
             "slime_condensate",
         ],
+    },
+    {
+        name: "royal_spear",
+        fullname: {
+            en: "Royal Spear",
+        },
+        type: "polearm",
+        rarity: 4,
+        ascension: [
+            "mist_veiled_elixir",
+            "mist_grass_pollen",
+            "recruit_insignia",
+        ],
+    },
+    {
+        name: "dragonspine_spear",
+        fullname: {
+            en: "Dragonspine Spear",
+        },
+        type: "polearm",
+        rarity: 4,
+        ascension: [],
     },
     {
         name: "black_tassel",

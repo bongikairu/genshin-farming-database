@@ -50,6 +50,7 @@ export default [
         fullname: {
             en: "Memory of Dust",
             es: "Candado Terrenal",
+            ko: "속세의 자물쇠",
             ja: "浮世の錠",
             vi: "Khoá Trần Thế",
             de: "Ketten des Diesseits",
@@ -278,6 +279,15 @@ export default [
             "dead_ley_line_branch",
             "divining_scroll",
         ],
+    },
+    {
+        name: "frostbearer",
+        fullname: {
+            en: "Frostbearer",
+        },
+        type: "catalyst",
+        rarity: 4,
+        ascension: [],
     },
     {
         name: "twin_nephrite",
