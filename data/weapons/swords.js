@@ -45,10 +45,15 @@ export default [
         name: "summit_shaper",
         fullname: {
             en: "Summit Shaper",
+            ru: "Кромсатель пиков",
         },
         type: "sword",
         rarity: 5,
-        ascension: [],
+        ascension: [
+            "guyun",
+            "hunter_sacrificial_knife",
+            "damaged_mask",
+        ],
     },
     {
         name: "blackcliff_longsword",
@@ -286,10 +291,16 @@ export default [
         name: "festering_desire",
         fullname: {
             en: "Festering Desire",
+            ja: "腐植の剣",
+            ru: "Оскверненное желание",
         },
         type: "sword",
         rarity: 4,
-        ascension: [],
+        ascension: [
+            "dandelion_gladiator",
+            "heavy_horn",
+            "recruit_insignia",
+        ],
     },
     {
         name: "skyrider_sword",
@@ -386,6 +397,7 @@ export default [
             es: "Espada de Hierro Oscuro",
             zhCn: "暗铁剑",
             ko: "암철검",
+            ja: "暗鉄剣",
             de: "Dunkles Eisenschwert",
             ru: "Тёмный железный меч",
         },

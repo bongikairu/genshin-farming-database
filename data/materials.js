@@ -1373,6 +1373,8 @@ export const farming_spot = [
         name: "domain_blessing_peak_of_vindagnyr",
         fullname: {
             en: "Domain of Blessing: Peak of Vindagnyr",
+            th: "ดันเจี้ยนแห่งพร: ยอดสูงสุดแห่ง Vindagnyr",
+            ru: "Подземелье: Пик Виндагнира",
         },
         day_of_week: null,
         resin: 20,

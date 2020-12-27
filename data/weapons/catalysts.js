@@ -287,7 +287,11 @@ export default [
         },
         type: "catalyst",
         rarity: 4,
-        ascension: [],
+        ascension: [
+            "dandelion_gladiator",
+            "chaos_device",
+            "whopperflower_nectar",
+        ],
     },
     {
         name: "twin_nephrite",
@@ -320,7 +324,11 @@ export default [
         },
         type: "catalyst",
         rarity: 3,
-        ascension: [],
+        ascension: [
+            "aerosiderite",
+            "fragile_bone_shard",
+            "whopperflower_nectar",
+        ],
     },
     {
         name: "thrilling_tales_of_dragon_slayers",

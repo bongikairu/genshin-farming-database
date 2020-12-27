@@ -4,6 +4,8 @@ export const character_data = [
         fullname: {
             en: "Albedo",
             zhCn: "阿贝多",
+            ja: "アルベド",
+            ru: "Альбедо",
         },
         element: "geo",
         rarity: 5,
@@ -217,6 +219,8 @@ export const character_data = [
         fullname: {
             en: "Ganyu",
             zhCn: "甘雨",
+            ja: "甘雨",
+            ru: "Гань Юй",
         },
         element: "cryo",
         rarity: 5,
@@ -224,8 +228,13 @@ export const character_data = [
         ascension: [
             "shivada_jade",
             "hoarfrost_core",
+            "qingxin",
+            "whopperflower_nectar",
         ],
-        talent: [],
+        talent: [
+            "diligence",
+            "whopperflower_nectar",
+        ],
     },
     {
         name: "jean",

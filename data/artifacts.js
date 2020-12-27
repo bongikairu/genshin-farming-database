@@ -198,6 +198,7 @@ export const artifact_data = [
             en: "Glacier and Snowfield",
             es: "Glaciar y Campo de Nieve",
             zhCn: "冰之川与雪之砂",
+            ru: "Покоритель океана",
         },
         item_list: [
             {
@@ -239,6 +240,8 @@ export const artifact_data = [
             en: "Icebreaker",
             es: "Rompehielos",
             zhCn: "征服寒冬的勇士",
+            ja: "氷風を彷徨う勇士",
+            ru: "Крушитель льда",
         },
         item_list: [
             {
@@ -730,6 +733,7 @@ export const artifact_data = [
         fullname: {
             en: "Blizzard Strayer",
             zhCn: "冰风迷途的勇士",
+            ru: "Заблудший в метели",
         },
         item_list: [
             {
@@ -746,6 +750,8 @@ export const artifact_data = [
         fullname: {
             en: "Heart of Depth",
             zhCn: "沉沦之心",
+            ja: "沈淪の心",
+            ru: "Сердце глубин",
         },
         item_list: [
             {

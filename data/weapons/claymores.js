@@ -47,6 +47,8 @@ export default [
         name: "the_unforged",
         fullname: {
             en: "The Unforged",
+            ja: "無工の剣",
+            ru: "Некованый",
         },
         type: "claymore",
         rarity: 5,
@@ -108,7 +110,11 @@ export default [
         },
         type: "claymore",
         rarity: 4,
-        ascension: [],
+        ascension: [
+            "guyun",
+            "hunter_sacrificial_knife",
+            "firm_arrowhead",
+        ],
     },
     {
         name: "blackcliff_slasher",
@@ -228,7 +234,7 @@ export default [
             vi: "Mẫu Cổ Hoa",
             de: "Guhua-Prototyp",
             fr: "Espadon (prototype)",
-            ru: "Прототип: Гу Хуа",
+            ru: "Прототип: Архаичный",
         },
         type: "claymore",
         rarity: 4,
@@ -264,10 +270,16 @@ export default [
         name: "snowtombed_starsilver",
         fullname: {
             en: "Snow-Tombed Starsilver",
+            ja: "雪葬の星銀",
+            ru: "Заснеженное звездное серебро",
         },
         type: "claymore",
         rarity: 4,
-        ascension: [],
+        ascension: [
+            "decarabian",
+            "heavy_horn",
+            "slime_condensate",
+        ],
     },
     {
         name: "skyrider_greatsword",
@@ -297,7 +309,11 @@ export default [
         },
         type: "claymore",
         rarity: 3,
-        ascension: [],
+        ascension: [
+            "guyun",
+            "hunter_sacrificial_knife",
+            "divining_scroll",
+        ],
     },
     {
         name: "white_iron_greatsword",

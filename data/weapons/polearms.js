@@ -24,6 +24,7 @@ export default [
         name: "kunwu_iris_rift",
         fullname: {
             en: "Vortex Vanquisher",
+            ru: "Покоритель вихря",
         },
         type: "polearm",
         rarity: 5,
@@ -199,6 +200,7 @@ export default [
         name: "royal_spear",
         fullname: {
             en: "Royal Spear",
+            ru: "Королевское копье",
         },
         type: "polearm",
         rarity: 4,
@@ -212,10 +214,16 @@ export default [
         name: "dragonspine_spear",
         fullname: {
             en: "Dragonspine Spear",
+            ja: "ドラゴンスピア",
+            ru: "Копье Драконьего хребта",
         },
         type: "polearm",
         rarity: 4,
-        ascension: [],
+        ascension: [
+            "boreal_wolf",
+            "mist_grass_pollen",
+            "recruit_insignia",
+        ],
     },
     {
         name: "black_tassel",

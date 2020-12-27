@@ -332,7 +332,11 @@ export default [
         },
         type: "bow",
         rarity: 3,
-        ascension: [],
+        ascension: [
+            "aerosiderite",
+            "fragile_bone_shard",
+            "recruit_insignia",
+        ],
     },
     {
         name: "messenger",
