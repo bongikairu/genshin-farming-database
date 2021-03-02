@@ -48,6 +48,8 @@ export default [
         fullname: {
             en: "The Unforged",
             ja: "無工の剣",
+            vi: "Kiếm Vô Công",
+            de: "Grobes Schwert",
             ru: "Некованый",
         },
         type: "claymore",
@@ -107,6 +109,10 @@ export default [
         fullname: {
             en: "Lithic Blade",
             ko: "천암고검",
+            ja: "千岩古剣",
+            vi: "Thiên Nham Cổ Kiếm",
+            de: "Antikes Millelithenschwert",
+            ru: "Каменный меч",
         },
         type: "claymore",
         rarity: 4,
@@ -225,12 +231,13 @@ export default [
     {
         name: "prototype_aminus",
         fullname: {
-            en: "Prototype Aminus",
+            en: "Prototype Archaic",
             es: "Prototipo Aminus",
             pt: "Protótipo Aminus",
             zhCn: "试作古华",
             ko: "고화 프로토타입",
             ja: "古華・試作",
+            id: "Prototype Aminus",
             vi: "Mẫu Cổ Hoa",
             de: "Guhua-Prototyp",
             fr: "Espadon (prototype)",
@@ -271,6 +278,9 @@ export default [
         fullname: {
             en: "Snow-Tombed Starsilver",
             ja: "雪葬の星銀",
+            vi: "Tuyết Vùi Tinh Ngân",
+            de:
+                "Unter Schnee begrabenes Sternsilber",
             ru: "Заснеженное звездное серебро",
         },
         type: "claymore",

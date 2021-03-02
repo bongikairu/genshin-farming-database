@@ -240,7 +240,6 @@ export const artifact_data = [
             en: "Icebreaker",
             es: "Rompehielos",
             zhCn: "征服寒冬的勇士",
-            ja: "氷風を彷徨う勇士",
             ru: "Крушитель льда",
         },
         item_list: [
@@ -733,6 +732,10 @@ export const artifact_data = [
         fullname: {
             en: "Blizzard Strayer",
             zhCn: "冰风迷途的勇士",
+            ko: "얼음바람 속에서 길잃은 용사",
+            ja: "氷風を彷徨う勇士",
+            vi: "Dũng Sĩ Trong Băng Giá",
+            de: "Im Schnee irrender Recke",
             ru: "Заблудший в метели",
         },
         item_list: [
@@ -748,9 +751,12 @@ export const artifact_data = [
     {
         name: "heart_of_depth",
         fullname: {
-            en: "Heart of Depth",
+            en: "Heart of Depth (Ocean Conqueror)",
             zhCn: "沉沦之心",
+            ko: "몰락한 마음",
             ja: "沈淪の心",
+            vi: "Trái Tim Trầm Luân",
+            de: "Tief im Herzen",
             ru: "Сердце глубин",
         },
         item_list: [

@@ -4,6 +4,7 @@ export const character_data = [
         fullname: {
             en: "Albedo",
             zhCn: "阿贝多",
+            ko: "알베도",
             ja: "アルベド",
             ru: "Альбедо",
         },
@@ -219,6 +220,7 @@ export const character_data = [
         fullname: {
             en: "Ganyu",
             zhCn: "甘雨",
+            ko: "감우",
             ja: "甘雨",
             ru: "Гань Юй",
         },
@@ -229,6 +231,25 @@ export const character_data = [
             "shivada_jade",
             "hoarfrost_core",
             "qingxin",
+            "whopperflower_nectar",
+        ],
+        talent: [
+            "diligence",
+            "whopperflower_nectar",
+        ],
+    },
+    {
+        name: "hutao",
+        fullname: {
+            en: "Hu Tao",
+        },
+        element: "pyro",
+        rarity: 5,
+        weapon: "polearm",
+        ascension: [
+            "agnidus_agate",
+            "juvenile_jade",
+            "silk_flower",
             "whopperflower_nectar",
         ],
         talent: [
@@ -578,9 +599,9 @@ export const character_data = [
         weapon: "polearm",
         ascension: [
             "vayuda_turquoise",
-            "hurricane_seed",
+            "juvenile_jade",
             "qingxin",
-            "firm_arrowhead",
+            "slime_condensate",
         ],
         talent: ["prosperity", "firm_arrowhead"],
     },
@@ -644,7 +665,7 @@ export const character_data = [
             "prithiva_topaz",
             "basalt_pillar",
             "cor_lapis",
-            "slime_condenstate",
+            "slime_condensate",
         ],
         talent: ["gold", "slime_condensate"],
     },

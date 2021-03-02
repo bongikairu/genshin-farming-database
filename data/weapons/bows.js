@@ -84,7 +84,7 @@ export default [
         ascension: [
             "guyun",
             "hunter_sacrificial_knife",
-            "treasure_hoarder_insignia",
+            "whopperflower_nectar",
         ],
     },
     {
@@ -121,7 +121,7 @@ export default [
             vi: "Mẫu Đạm Nguyệt",
             de: "Mondschein-Prototyp",
             fr: "Lune paisible (prototype)",
-            ru: "Прототип: Серп",
+            ru: "Прототип: Полумесяц",
         },
         type: "bow",
         rarity: 4,
