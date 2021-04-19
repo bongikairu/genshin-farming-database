@@ -40,6 +40,22 @@ export const character_data = [
         talent: ["freedom", "firm_arrowhead"],
     },
     {
+        name: "ayaka",
+        fullname: {
+            en: "Ayaka",
+        },
+        element: "cryo",
+        rarity: 5,
+        weapon: "sword",
+        ascension: [
+            "shivada_jade",
+            "hoarfrost_core",
+            "small_lamp_grass",
+            "divining_scroll",
+        ],
+        talent: ["divining_scroll"],
+    },
+    {
         name: "barbara",
         fullname: {
             en: "Barbara",
@@ -196,6 +212,22 @@ export const character_data = [
         talent: ["freedom", "firm_arrowhead"],
     },
     {
+        name: "eula",
+        fullname: {
+            en: "Eula",
+        },
+        element: "cryo",
+        rarity: 5,
+        weapon: "claymore",
+        ascension: [
+            "shivada_jade",
+            "crystalline_bloom",
+            "dandelion_seed",
+            "damaged_mask",
+        ],
+        talent: ["resistance", "damaged_mask"],
+    },
+    {
         name: "fischl",
         fullname: {
             en: "Fischl",
@@ -242,6 +274,9 @@ export const character_data = [
         name: "hutao",
         fullname: {
             en: "Hu Tao",
+            ko: "호두",
+            ja: "胡桃",
+            ru: "Ху Тау",
         },
         element: "pyro",
         rarity: 5,
@@ -283,7 +318,7 @@ export const character_data = [
             en: "Kaeya",
             zhCn: "凯亚",
             ko: "케이아",
-            ja: "ガイヤ",
+            ja: "ガイア",
             ru: "Кэйа",
         },
         element: "cryo",
@@ -473,6 +508,22 @@ export const character_data = [
         talent: ["resistance", "damaged_mask"],
     },
     {
+        name: "rosaria",
+        fullname: {
+            en: "Rosaria",
+        },
+        element: "cryo",
+        rarity: 4,
+        weapon: "polearm",
+        ascension: [
+            "shivada_jade",
+            "hoarfrost_core",
+            "valberry",
+            "recruit_insignia",
+        ],
+        talent: ["ballad", "recruit_insignia"],
+    },
+    {
         name: "sucrose",
         fullname: {
             en: "Sucrose",
@@ -642,6 +693,25 @@ export const character_data = [
             "agnidus_agate",
             "everflame_seed",
             "violetgrass",
+            "treasure_hoarder_insignia",
+        ],
+        talent: [
+            "gold",
+            "treasure_hoarder_insignia",
+        ],
+    },
+    {
+        name: "yanfei",
+        fullname: {
+            en: "Yanfei",
+        },
+        element: "pyro",
+        rarity: 5,
+        weapon: "catalyst",
+        ascension: [
+            "agnidus_agate",
+            "juvenile_jade",
+            "noctilucous_jade",
             "treasure_hoarder_insignia",
         ],
         talent: [

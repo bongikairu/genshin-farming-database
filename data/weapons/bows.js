@@ -99,7 +99,7 @@ export default [
             vi: "Cung Sắc Xanh",
             de: "Grasgrüner Jagdbogen",
             fr: "Arc de chasse verdoyant",
-            ru: "Зелёный лук",
+            ru: "Зеленый лук",
         },
         type: "bow",
         rarity: 4,
@@ -158,6 +158,9 @@ export default [
         fullname: {
             en: "Alley Hunter",
             ko: "뒷골목 사냥꾼",
+            ja: "ダークアレイの狩人",
+            vi: "Thợ Săn Hẻm Tối",
+            de: "Gassenjäger",
             ru: "Аллея Охотника",
         },
         type: "bow",

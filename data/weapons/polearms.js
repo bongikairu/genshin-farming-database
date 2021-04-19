@@ -268,7 +268,7 @@ export default [
             vi: "Hắc Anh Thương",
             de: "Schwarze Quaste",
             fr: "Pampille noire",
-            ru: "Чёрная кисть",
+            ru: "Черная кисть",
         },
         type: "polearm",
         rarity: 3,

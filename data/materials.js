@@ -138,6 +138,13 @@ export const farm_material = [
         farm_at: "cryo_regisvines",
     },
     {
+        name: "crystalline_bloom",
+        fullname: {
+            en: "Crystalline Bloom",
+        },
+        farm_at: "cryo_hypostasis",
+    },
+    {
         name: "hurricane_seed",
         fullname: {
             en: "Hurricane Seed",
@@ -444,7 +451,7 @@ export const farm_material = [
             ja: "星螺",
             vi: "Ốc Sao",
             de: "Sternmuschel",
-            ru: "Звёздная ракушка",
+            ru: "Звездная ракушка",
         },
         farm_at: "world_harvest_liyue",
         respawn_rate: "reset_2",
@@ -493,7 +500,7 @@ export const farm_material = [
             vi: "Sừng Nặng",
             de: "Schweres Horn",
             fr: "Corne lourde",
-            ru: "Тяжёлый рог",
+            ru: "Тяжелый рог",
         },
         farm_at: "world_miniboss",
         respawn_rate: "reset",
@@ -829,7 +836,7 @@ export const farm_material = [
             ja: "漆黒の隕鉄の一粒",
             vi: "Thiên Thạch Đen",
             de: "Aerosiderit",
-            ru: "Чёрный сидерит",
+            ru: "Черный сидерит",
         },
         farm_at: "domain_forgery_hidden_palace_of_lianshan_formula_wed_sat",
     },
@@ -986,6 +993,16 @@ export const farming_spot = [
             vi: "Rồng Đất Cổ",
             de: "Anführergegner: Alte Geo-Drachenechse",
             ru: "Мировой босс: Древний геовишап",
+        },
+        day_of_week: null,
+        resin: 40,
+        type: "world_boss",
+    },
+    {
+        name: "cryo_hypostasis",
+        fullname: {
+            en: "World Boss: Cryo Hypostasis",
+            th: "เวิลด์บอส: Cryo Hypostasis",
         },
         day_of_week: null,
         resin: 40,

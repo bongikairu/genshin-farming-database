@@ -47,6 +47,7 @@ export default [
         name: "the_unforged",
         fullname: {
             en: "The Unforged",
+            ko: "무공의 검",
             ja: "無工の剣",
             vi: "Kiếm Vô Công",
             de: "Grobes Schwert",
@@ -277,6 +278,7 @@ export default [
         name: "snowtombed_starsilver",
         fullname: {
             en: "Snow-Tombed Starsilver",
+            ko: "설장의 성은",
             ja: "雪葬の星銀",
             vi: "Tuyết Vùi Tinh Ngân",
             de:
@@ -419,7 +421,7 @@ export default [
             vi: "Kiếm Dụng Binh",
             de: "Söldnerzweihänder",
             fr: "Lame du mercenaire",
-            ru: "Лучший друг наёмника",
+            ru: "Лучший друг наемника",
         },
         type: "claymore",
         rarity: 2,

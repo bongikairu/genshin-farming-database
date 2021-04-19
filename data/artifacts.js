@@ -240,6 +240,7 @@ export const artifact_data = [
             en: "Icebreaker",
             es: "Rompehielos",
             zhCn: "征服寒冬的勇士",
+            ja: "氷風を彷徨う勇士",
             ru: "Крушитель льда",
         },
         item_list: [
@@ -454,7 +455,7 @@ export const artifact_data = [
             vi: "Học Sĩ",
             de: "Gelehrter",
             fr: "Erudit",
-            ru: "Учёный",
+            ru: "Ученый",
         },
         item_list: [
             {
@@ -502,7 +503,7 @@ export const artifact_data = [
             vi: "Như Sấm Thịnh Nộ",
             de: "Donnernder Zorn",
             fr: "Colère de tonnerre",
-            ru: "Громогласный рёв ярости",
+            ru: "Громогласный рев ярости",
         },
         item_list: [
             {
