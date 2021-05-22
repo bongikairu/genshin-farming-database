@@ -44,22 +44,6 @@ export default [
         ],
     },
     {
-        name: "song_of_broken_pines",
-        fullname: {
-            en: "Song of Broken Pines",
-            es: "Oda de los Pinos",
-            de: "Kiefernklang",
-            ru: "Песнь разбитых сосен",
-        },
-        type: "claymore",
-        rarity: 5,
-        ascension: [
-            "decarabian",
-            "heavy_horn",
-            "damaged_mask",
-        ],
-    },
-    {
         name: "the_unforged",
         fullname: {
             en: "The Unforged",
@@ -75,6 +59,22 @@ export default [
             "mist_veiled_elixir",
             "mist_grass_pollen",
             "treasure_hoarder_insignia",
+        ],
+    },
+    {
+        name: "song_of_broken_pines",
+        fullname: {
+            en: "Song of Broken Pines",
+            es: "Oda de los Pinos",
+            de: "Kiefernklang",
+            ru: "Песнь разбитых сосен",
+        },
+        type: "claymore",
+        rarity: 5,
+        ascension: [
+            "decarabian",
+            "heavy_horn",
+            "damaged_mask",
         ],
     },
     {

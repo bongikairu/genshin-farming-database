@@ -43,6 +43,8 @@ export const character_data = [
         name: "ayaka",
         fullname: {
             en: "Ayaka",
+            ja: "綾華",
+            ru: "Аяка",
         },
         element: "cryo",
         rarity: 5,
@@ -215,6 +217,8 @@ export const character_data = [
         name: "eula",
         fullname: {
             en: "Eula",
+            ja: "エウルア",
+            ru: "Эола",
         },
         element: "cryo",
         rarity: 5,
@@ -704,6 +708,8 @@ export const character_data = [
         name: "yanfei",
         fullname: {
             en: "Yanfei",
+            ja: "煙緋",
+            ru: "Янь Фэй",
         },
         element: "pyro",
         rarity: 5,

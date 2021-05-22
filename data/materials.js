@@ -141,6 +141,9 @@ export const farm_material = [
         name: "crystalline_bloom",
         fullname: {
             en: "Crystalline Bloom",
+            ja: "凝結の華",
+            de: "Ewige Eisblume",
+            ru: "Цветение кристалла",
         },
         farm_at: "cryo_hypostasis",
     },
@@ -1003,6 +1006,9 @@ export const farming_spot = [
         fullname: {
             en: "World Boss: Cryo Hypostasis",
             th: "เวิลด์บอส: Cryo Hypostasis",
+            ja: "フィールドボス：無相の氷",
+            de: "Anführergegner: Kryo-Hypostase",
+            ru: "Мировой босс: Крио гипостазис",
         },
         day_of_week: null,
         resin: 40,
