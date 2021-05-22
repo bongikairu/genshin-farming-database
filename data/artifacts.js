@@ -235,25 +235,6 @@ export const artifact_data = [
         ],
     },
     {
-        name: "ice_breaker",
-        fullname: {
-            en: "Icebreaker",
-            es: "Rompehielos",
-            zhCn: "征服寒冬的勇士",
-            ja: "氷風を彷徨う勇士",
-            ru: "Крушитель льда",
-        },
-        item_list: [
-            {
-                fullname: {
-                    en: "Set",
-                    th: "Set",
-                },
-                farm_at: "world_treasure",
-            },
-        ],
-    },
-    {
         name: "instructor",
         fullname: {
             en: "Instructor",
@@ -767,6 +748,40 @@ export const artifact_data = [
                     th: "Set",
                 },
                 farm_at: "domain_blessing_peak_of_vindagnyr",
+            },
+        ],
+    },
+    {
+        name: "tenacity_of_the_millelith",
+        fullname: {
+            en: "Tenacity of the Millelith",
+            es: "Tenacidad de la Geoarmada",
+            de: "Zähigkeit der Millelithen",
+            ru: "Стойкость Миллелита",
+        },
+        item_list: [
+            {
+                fullname: {
+                    en: "Set",
+                    th: "Set",
+                },
+                farm_at: "domain_blessing_ridge_watch",
+            },
+        ],
+    },
+    {
+        name: "pale_flame",
+        fullname: {
+            en: "Pale Flame",
+            de: "Fahle Flamme",
+        },
+        item_list: [
+            {
+                fullname: {
+                    en: "Set",
+                    th: "Set",
+                },
+                farm_at: "domain_blessing_ridge_watch",
             },
         ],
     },

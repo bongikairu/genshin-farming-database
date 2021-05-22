@@ -1428,6 +1428,16 @@ export const farming_spot = [
         resin: 20,
         type: "domain",
     },
+    {
+        name: "domain_blessing_ridge_watch",
+        fullname: {
+            en: "Domain of Blessing: Ridge Watch",
+            de: "Sphäre des Segens: Gratwache",
+        },
+        day_of_week: null,
+        resin: 20,
+        type: "domain",
+    },
 
     {
         name: "challenge_confront_stormterror",
