@@ -1438,6 +1438,7 @@ export const farming_spot = [
         name: "domain_blessing_ridge_watch",
         fullname: {
             en: "Domain of Blessing: Ridge Watch",
+            ja: "祈聖秘境：山脊の見守り",
             de: "Sphäre des Segens: Gratwache",
         },
         day_of_week: null,

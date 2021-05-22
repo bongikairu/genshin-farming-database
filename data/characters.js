@@ -515,6 +515,7 @@ export const character_data = [
         name: "rosaria",
         fullname: {
             en: "Rosaria",
+            ja: "ロサリア",
         },
         element: "cryo",
         rarity: 4,

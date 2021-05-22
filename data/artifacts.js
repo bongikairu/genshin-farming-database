@@ -756,6 +756,7 @@ export const artifact_data = [
         fullname: {
             en: "Tenacity of the Millelith",
             es: "Tenacidad de la Geoarmada",
+            ja: "千岩牢固",
             de: "Zähigkeit der Millelithen",
             ru: "Стойкость Миллелита",
         },
@@ -773,6 +774,7 @@ export const artifact_data = [
         name: "pale_flame",
         fullname: {
             en: "Pale Flame",
+            ja: "蒼白の炎",
             de: "Fahle Flamme",
         },
         item_list: [

@@ -66,6 +66,7 @@ export default [
         fullname: {
             en: "Song of Broken Pines",
             es: "Oda de los Pinos",
+            ja: "松韻の響く頃",
             de: "Kiefernklang",
             ru: "Песнь разбитых сосен",
         },
