@@ -73,7 +73,7 @@ export const artifact_data = [
         ],
     },
     {
-        name: "bloodstained_chicalry",
+        name: "bloodstained_chivalry",
         fullname: {
             en: "Bloodstained Chivalry",
             es: "Caballería Sanguinaria",
