@@ -78,6 +78,34 @@ export default [
         ],
     },
     {
+        name: "freedom_sworn",
+        fullname: {
+            en: "Freedom-Sworn",
+            de: "Blasser Schwur der Freiheit",
+        },
+        type: "sword",
+        rarity: 5,
+        ascension: [
+            "dandelion_gladiator",
+            "chaos_device",
+            "divining_scroll",
+        ],
+    },
+    {
+        name: "mistsplitter_reforged",
+        fullname: {
+            en: "Mistsplitter Reforged",
+            de: "Widerschein des Nebelsplitters",
+        },
+        type: "sword",
+        rarity: 5,
+        ascension: [
+            "coral_branch",
+            "chaos_gear",
+            "old_handguard",
+        ],
+    },
+    {
         name: "blackcliff_longsword",
         fullname: {
             en: "Blackcliff Longsword",
@@ -329,6 +357,20 @@ export default [
             "dandelion_gladiator",
             "heavy_horn",
             "recruit_insignia",
+        ],
+    },
+    {
+        name: "amenoma_kageuchi",
+        fullname: {
+            en: "Amenoma Kageuchi",
+            de: "Amenoma Kageuchis",
+        },
+        type: "sword",
+        rarity: 4,
+        ascension: [
+            "coral_branch",
+            "chaos_gear",
+            "old_handguard",
         ],
     },
     {

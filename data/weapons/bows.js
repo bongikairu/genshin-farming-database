@@ -44,6 +44,34 @@ export default [
         ],
     },
     {
+        name: "elegy_for_the_end",
+        fullname: {
+            en: "Elegy for the End",
+            de: "Letzter Seufzer",
+        },
+        type: "bow",
+        rarity: 5,
+        ascension: [
+            "boreal_wolf",
+            "heavy_horn",
+            "recruit_insignia",
+        ],
+    },
+    {
+        name: "thundering_pulse",
+        fullname: {
+            en: "Thundering Pulse",
+            de: "Donnerpuls",
+        },
+        type: "bow",
+        rarity: 5,
+        ascension: [
+            "narukami",
+            "dismal_prism",
+            "firm_arrowhead",
+        ],
+    },
+    {
         name: "compound_bow",
         fullname: {
             en: "Compound Bow",
@@ -257,6 +285,61 @@ export default [
             "dandelion_gladiator",
             "chaos_device",
             "whopperflower_nectar",
+        ],
+    },
+    {
+        name: "windblume_ode",
+        fullname: {
+            en: "Windblume Ode",
+            de: "Windblumenode",
+        },
+        type: "bow",
+        rarity: 4,
+        ascension: [
+            "dandelion_gladiator",
+            "dead_ley_line_branch",
+            "whopperflower_nectar",
+        ],
+    },
+    {
+        name: "mitternachts_waltz",
+        fullname: {
+            en: "Mitternachts Waltz",
+            de: "Mitternachtswalzer",
+        },
+        type: "bow",
+        rarity: 4,
+        ascension: [
+            "decarabian",
+            "heavy_horn",
+            "treasure_hoarder_insignia",
+        ],
+    },
+    {
+        name: "hamayumi",
+        fullname: {
+            en: "Hamayumi",
+            de: "Hamayumi",
+        },
+        type: "bow",
+        rarity: 4,
+        ascension: [
+            "narukami",
+            "dismal_prism",
+            "firm_arrowhead",
+        ],
+    },
+    {
+        name: "Predator",
+        fullname: {
+            en: "Predator",
+        },
+        type: "bow",
+        rarity: 4,
+        ascension: [
+            "narukami",
+            "dismal_prism",
+            "firm_arrowhead",
         ],
     },
     {

@@ -204,6 +204,46 @@ export const farm_material = [
         },
         farm_at: "geo_hypostasis",
     },
+    {
+        name: "perpetual_heart",
+        fullname: {
+            en: "Perpetual Heart",
+            de: "Ewiges Herz",
+        },
+        farm_at: "perpetual_mechanical_array",
+    },
+    {
+        name: "maguu_kishin",
+        fullname: {
+            en: "Maguu Kishin",
+            de: "Maguu Kishin",
+        },
+        farm_at: "maguu_kenki",
+    },
+    {
+        name: "smoldering_pearl",
+        fullname: {
+            en: "Smoldering Pearl",
+            de: "Schwelende Perle",
+        },
+        farm_at: "pyro_hypostasis",
+    },
+    {
+        name: "storm_beads",
+        fullname: {
+            en: "Storm Beads",
+            de: "Sturmperlen",
+        },
+        farm_at: "thunder_manifestation",
+    },
+    {
+        name: "dew_of_repudiation",
+        fullname: {
+            en: "Dew of Repudiation",
+            de: "Tau der Abstoßung",
+        },
+        farm_at: "hydro_hypostasis",
+    },
 
     {
         name: "windwheel_aster",
@@ -459,6 +499,69 @@ export const farm_material = [
         farm_at: "world_harvest_liyue",
         respawn_rate: "reset_2",
     },
+    {
+        name: "sakura_bloom",
+        fullname: {
+            en: "Sakura Bloom",
+            de: "Sakura-Blüte",
+        },
+        farm_at: "world_harvest_inazuma",
+        respawn_rate: "reset_2",
+    },
+    {
+        name: "sea_ganoderma",
+        fullname: {
+            en: "Sea Ganoderma",
+            de: "Meereslackporling",
+        },
+        farm_at: "world_harvest_inazuma",
+        respawn_rate: "reset_2",
+    },
+    {
+        name: "naku_weed",
+        fullname: {
+            en: "Naku Weed",
+            de: "Naku-Kraut",
+        },
+        farm_at: "world_harvest_inazuma",
+        respawn_rate: "reset_2",
+    },
+    {
+        name: "crystal_marrow",
+        fullname: {
+            en: "Crystal Marrow",
+            de: "Kristallmark",
+        },
+        farm_at: "world_harvest_inazuma",
+        respawn_rate: "reset_2",
+    },
+    {
+        name: "dendrobium",
+        fullname: {
+            en: "Dendrobium",
+            de: "Dendrobium",
+        },
+        farm_at: "world_harvest_inazuma",
+        respawn_rate: "reset_2",
+    },
+    {
+        name: "tenkumo_fruit",
+        fullname: {
+            en: "Tenkumo Fruit",
+            de: "Tenkumo-Frucht",
+        },
+        farm_at: "world_harvest_inazuma",
+        respawn_rate: "reset_2",
+    },
+    {
+        name: "sango_pearl",
+        fullname: {
+            en: "Sango Pearl",
+            de: "Sango-Perle",
+        },
+        farm_at: "world_harvest_inazuma",
+        respawn_rate: "reset_2",
+    },
 
     {
         name: "chaos_device",
@@ -552,6 +655,24 @@ export const farm_material = [
             de: "Zerbrechliches Knochenstück",
             fr: "Fragment d'os fragile",
             ru: "Хрупкие останки",
+        },
+        farm_at: "world_miniboss",
+        respawn_rate: "reset",
+    },
+    {
+        name: "chaos_gear",
+        fullname: {
+            en: "Chaos Gear",
+            de: "Chaos-Vorrichtung",
+        },
+        farm_at: "world_miniboss",
+        respawn_rate: "reset",
+    },
+    {
+        name: "dismal_prism",
+        fullname: {
+            en: "Dismal Prismr",
+            de: "Düsteres Prisma",
         },
         farm_at: "world_miniboss",
         respawn_rate: "reset",
@@ -662,6 +783,21 @@ export const farm_material = [
         },
         farm_at: "world_mob",
     },
+    {
+        name: "old_handguard",
+        fullname: {
+            en: "Old Handguard",
+            de: "Alter Handschutz",
+        },
+        farm_at: "world_mob",
+    },
+    {
+        name: "spectral_husk",
+        fullname: {
+            en: "Spectral Husk",
+        },
+        farm_at: "world_mob",
+    },
 
     {
         name: "brilliant_diamond",
@@ -769,6 +905,30 @@ export const farm_material = [
         },
         farm_at: "domain_mastery_taishan_mansion_wed_sat",
     },
+    {
+        name: "elegance",
+        fullname: {
+            en: "Elegance",
+            de: "Eleganz",
+        },
+        farm_at: "domain_mastery_violet_court_tue_fir",
+    },
+    {
+        name: "transience",
+        fullname: {
+            en: "Transience",
+            de: "Vergänglichkeit",
+        },
+        farm_at: "domain_mastery_violet_court_mon_thu",
+    },
+    {
+        name: "light",
+        fullname: {
+            en: "Light",
+            de: "Lichts",
+        },
+        farm_at: "domain_mastery_violet_court_wed_sat",
+    },
 
     {
         name: "decarabian",
@@ -858,6 +1018,30 @@ export const farm_material = [
             ru: "Оковы львиного клыка",
         },
         farm_at: "domain_forgery_cecilia_garden_wed_sat",
+    },
+    {
+        name: "coral_branch",
+        fullname: {
+            en: "Coral Branch",
+            de: "Korallenzweig",
+        },
+        farm_at: "domain_forgery_court_of_flowing_sand_mon_thu",
+    },
+    {
+        name: "narukami",
+        fullname: {
+            en: "Narukami's Wisdom",
+            de: "Narukamis Weisheit",
+        },
+        farm_at: "domain_forgery_court_of_flowing_sand_tue_fri",
+    },
+    {
+        name: "mask_wicked",
+        fullname: {
+            en: "Mask of the Wicked",
+            de: "Maske des Bösen",
+        },
+        farm_at: "domain_forgery_court_of_flowing_sand_wed_sat",
     },
 ];
 
@@ -1014,6 +1198,56 @@ export const farming_spot = [
         resin: 40,
         type: "world_boss",
     },
+    {
+        name: "perpetual_mechanical_array",
+        fullname: {
+            en: "World Boss: Perpetual Mechanical Array",
+            de: "Anführergegner: Anordnung immerwährender Vorrichtungen",
+        },
+        day_of_week: null,
+        resin: 40,
+        type: "world_boss",
+    },
+    {
+        name: "maguu_kenki",
+        fullname: {
+            en: "World Boss: Maguu Kenki",
+            de: "Anführergegner: Maguu Kenki",
+        },
+        day_of_week: null,
+        resin: 40,
+        type: "world_boss",
+    },
+    {
+        name: "pyro_hypostasis",
+        fullname: {
+            en: "World Boss: Pyro Hypostasis",
+            de: "Anführergegner: Pyro-Hypostase",
+        },
+        day_of_week: null,
+        resin: 40,
+        type: "world_boss",
+    },
+    {
+        name: "thunder_manifestation",
+        fullname: {
+            en: "World Boss: Thunder Manifestation",
+            de: "Anführergegner: Manifestation des Donners",
+        },
+        day_of_week: null,
+        resin: 40,
+        type: "world_boss",
+    },
+    {
+        name: "hydro_hypostasis",
+        fullname: {
+            en: "World Boss: Hydro Hypostasis",
+            de: "Anführergegner: Hydro-Hypostase",
+        },
+        day_of_week: null,
+        resin: 40,
+        type: "world_boss",
+    },
 
     {
         name: "domain_mastery_forsaken_rift",
@@ -1165,6 +1399,39 @@ export const farming_spot = [
         resin: 20,
         type: "domain",
     },
+    {
+        name: "domain_mastery_violet_court_mon_thu",
+        fullname: {
+            en: "Domain of Mastery: Violet Court",
+            de: "Sphäre des Verständnisses: Stiefmütterchenhof",
+        },
+        alias_of: "domain_mastery_violet_court",
+        day_of_week: ["mon", "thu", "sun"],
+        resin: 20,
+        type: "domain",
+    },
+    {
+        name: "domain_mastery_violet_court_tue_fir",
+        fullname: {
+            en: "Domain of Mastery: Violet Court",
+            de: "Sphäre des Verständnisses: Stiefmütterchenhof",
+        },
+        alias_of: "domain_mastery_violet_court",
+        day_of_week: ["tue", "fri", "sun"],
+        resin: 20,
+        type: "domain",
+    },
+    {
+        name: "domain_mastery_violet_court_wed_sat",
+        fullname: {
+            en: "Domain of Mastery: Violet Court",
+            de: "Sphäre des Verständnisses: Stiefmütterchenhof",
+        },
+        alias_of: "domain_mastery_violet_court",
+        day_of_week: ["wed", "sat", "sun"],
+        resin: 20,
+        type: "domain",
+    },
 
     {
         name: "domain_forgery_cecilia_garden",
@@ -1247,8 +1514,7 @@ export const farming_spot = [
             en: "Domain of Forgery: Hidden Palace of Lianshan Formula",
             th: "ดันเจี้ยนแห่งการต่อสู้: ราชวังลับแห่ง Lianshan Formula",
             es: "Dominio de la forja: Palacio oculto de la Fórmula Lianshan",
-            pt:
-                "Domínio das Profundezas Misteriosas: Palácio Oculto da Fórmula Lianshan",
+            pt: "Domínio das Profundezas Misteriosas: Palácio Oculto da Fórmula Lianshan",
             ko: "연무 비경: 천둥 연산 밀궁",
             ja: "煉武秘境：震雷連山蜜宮",
             id: "Domain of Forgery: Istana Rahasia Lianshan Formula",
@@ -1267,8 +1533,7 @@ export const farming_spot = [
             en: "Domain of Forgery: Hidden Palace of Lianshan Formula",
             th: "ดันเจี้ยนแห่งการต่อสู้: ราชวังลับแห่ง Lianshan Formula",
             es: "Dominio de la forja: Palacio oculto de la Fórmula Lianshan",
-            pt:
-                "Domínio das Profundezas Misteriosas: Palácio Oculto da Fórmula Lianshan",
+            pt: "Domínio das Profundezas Misteriosas: Palácio Oculto da Fórmula Lianshan",
             ko: "연무 비경: 천둥 연산 밀궁",
             ja: "煉武秘境：震雷連山蜜宮 月・木曜",
             id: "Domain of Forgery: Istana Rahasia Lianshan Formula",
@@ -1288,8 +1553,7 @@ export const farming_spot = [
             en: "Domain of Forgery: Hidden Palace of Lianshan Formula",
             th: "ดันเจี้ยนแห่งการต่อสู้: ราชวังลับแห่ง Lianshan Formula",
             es: "Dominio de la forja: Palacio oculto de la Fórmula Lianshan",
-            pt:
-                "Domínio das Profundezas Misteriosas: Palácio Oculto da Fórmula Lianshan",
+            pt: "Domínio das Profundezas Misteriosas: Palácio Oculto da Fórmula Lianshan",
             ko: "연무 비경: 천둥 연산 밀궁",
             ja: "煉武秘境：震雷連山蜜宮 火・金曜",
             id: "Domain of Forgery: Istana Rahasia Lianshan Formula",
@@ -1309,8 +1573,7 @@ export const farming_spot = [
             en: "Domain of Forgery: Hidden Palace of Lianshan Formula",
             th: "ดันเจี้ยนแห่งการต่อสู้: ราชวังลับแห่ง Lianshan Formula",
             es: "Dominio de la forja: Palacio oculto de la Fórmula Lianshan",
-            pt:
-                "Domínio das Profundezas Misteriosas: Palácio Oculto da Fórmula Lianshan",
+            pt: "Domínio das Profundezas Misteriosas: Palácio Oculto da Fórmula Lianshan",
             ko: "연무 비경: 천둥 연산 밀궁",
             ja: "煉武秘境：震雷連山蜜宮 水・土曜",
             id: "Domain of Forgery: Istana Rahasia Lianshan Formula",
@@ -1320,6 +1583,39 @@ export const farming_spot = [
             ru: "Подземелье: Лабиринт Ляншань",
         },
         alias_of: "domain_forgery_hidden_palace_of_lianshan_formula",
+        day_of_week: ["wed", "sat", "sun"],
+        resin: 20,
+        type: "domain",
+    },
+    {
+        name: "domain_forgery_court_of_flowing_sand_mon_thu",
+        fullname: {
+            en: "Domain of Forgery: Court of Flowing Sand",
+            de: "Sphäre der Kriegskunst: Garten der fließenden Sande",
+        },
+        alias_of: "domain_forgery_court_of_flowing_sand",
+        day_of_week: ["mon", "thu", "sun"],
+        resin: 20,
+        type: "domain",
+    },
+    {
+        name: "domain_forgery_court_of_flowing_sand_tue_fri",
+        fullname: {
+            en: "Domain of Forgery: Court of Flowing Sand",
+            de: "Sphäre der Kriegskunst: Garten der fließenden Sande",
+        },
+        alias_of: "domain_forgery_court_of_flowing_sand",
+        day_of_week: ["tue", "fri", "sun"],
+        resin: 20,
+        type: "domain",
+    },
+    {
+        name: "domain_forgery_court_of_flowing_sand_wed_sat",
+        fullname: {
+            en: "Domain of Forgery: Court of Flowing Sand",
+            de: "Sphäre der Kriegskunst: Garten der fließenden Sande",
+        },
+        alias_of: "domain_forgery_court_of_flowing_sand",
         day_of_week: ["wed", "sat", "sun"],
         resin: 20,
         type: "domain",
@@ -1445,6 +1741,17 @@ export const farming_spot = [
         resin: 20,
         type: "domain",
     },
+    {
+        name: "domain_blessing_momiji_dyed_court",
+        fullname: {
+            en: "Domain of Blessing: Momiji-Dyed Court",
+            ja: "祈聖秘境：紅葉ノ庭",
+            de: "Sphäre des Segens: Momiji-Garten",
+        },
+        day_of_week: null,
+        resin: 20,
+        type: "domain",
+    },
 
     {
         name: "challenge_confront_stormterror",
@@ -1514,6 +1821,15 @@ export const farming_spot = [
             de: "Weltbeute: Liyue",
             fr: "Cueillette régionale : Liyue",
             ru: "Мировой урожай: Ли Юэ",
+        },
+        day_of_week: null,
+        resin: null,
+    },
+    {
+        name: "world_harvest_inazuma",
+        fullname: {
+            en: "World Harvest: Inazuma",
+            de: "Weltbeute: Inazuma",
         },
         day_of_week: null,
         resin: null,

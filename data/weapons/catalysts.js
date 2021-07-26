@@ -25,10 +25,8 @@ export default [
         name: "lost_prayer_to_the_sacred_winds",
         fullname: {
             en: "Lost Prayer to the Sacred Winds",
-            es:
-                "Oración Perdida a los Vientos Sagrados",
-            pt:
-                "Oração Perdida aos Ventos Sagrados",
+            es: "Oración Perdida a los Vientos Sagrados",
+            pt: "Oração Perdida aos Ventos Sagrados",
             zhCn: "四风原典",
             ko: "사풍 원서",
             ja: "四風原典",
@@ -62,6 +60,20 @@ export default [
             "aerosiderite",
             "fragile_bone_shard",
             "damaged_mask",
+        ],
+    },
+    {
+        name: "diamond_visage",
+        fullname: {
+            en: "Diamond Visage",
+            de: "Diamantenes Antlitz",
+        },
+        type: "catalyst",
+        rarity: 5,
+        ascension: [
+            "coral_branch",
+            "dismal_prism",
+            "spectral_husk",
         ],
     },
     {
@@ -134,15 +146,13 @@ export default [
         name: "mappa_mare",
         fullname: {
             en: "Mappa Mare",
-            es:
-                "Carta Náutica de las Tierras y los Mares",
+            es: "Carta Náutica de las Tierras y los Mares",
             pt: "Carta Náutica",
             zhCn: "万国诸海图谱",
             ko: "만국 항해용해도",
             ja: "万国諸海の図譜",
             vi: "Hải Đồ Vạn Quốc",
-            de:
-                "Illustrationen von Landen und Wassern",
+            de: "Illustrationen von Landen und Wassern",
             fr: "Atlas des terres et des mers",
             ru: "Морская карта",
         },
@@ -302,6 +312,34 @@ export default [
         ],
     },
     {
+        name: "dodoco_tales",
+        fullname: {
+            en: "Dodoco Tales",
+            de: "Dodoco-Geschichten",
+        },
+        type: "catalyst",
+        rarity: 4,
+        ascension: [
+            "boreal_wolf",
+            "dead_ley_line_branch",
+            "damaged_mask",
+        ],
+    },
+    {
+        name: "hakushin_ring",
+        fullname: {
+            en: "Hakushin Ring",
+            de: "Hakushin-Ring",
+        },
+        type: "catalyst",
+        rarity: 4,
+        ascension: [
+            "coral_branch",
+            "dismal_prism",
+            "divining_scroll",
+        ],
+    },
+    {
         name: "twin_nephrite",
         fullname: {
             en: "Twin Nephrite",
@@ -341,20 +379,15 @@ export default [
     {
         name: "thrilling_tales_of_dragon_slayers",
         fullname: {
-            en:
-                "Thrilling Tales of Dragon Slayers",
-            es:
-                "Cuentos de Cazadores de Dragones",
-            pt:
-                "Histórias Extraordinárias de Caçadores de Dragões",
+            en: "Thrilling Tales of Dragon Slayers",
+            es: "Cuentos de Cazadores de Dragones",
+            pt: "Histórias Extraordinárias de Caçadores de Dragões",
             zhCn: "讨龙英杰谭",
             ko: "드래곤 슬레이어 영웅담",
             ja: "龍殺しの英傑譚",
             vi: "Câu Chuyện Diệt Rồng",
-            de:
-                "Von den Heldentaten der Drachenbezwinger",
-            fr:
-                "Histoire des chasseurs de dragon",
+            de: "Von den Heldentaten der Drachenbezwinger",
+            fr: "Histoire des chasseurs de dragon",
             ru: "Эпос о драконоборцах",
         },
         type: "catalyst",

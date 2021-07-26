@@ -78,6 +78,19 @@ export default [
         ],
     },
     {
+        name: "grasscutters_light",
+        fullname: {
+            en: "Grasscutter's Light",
+        },
+        type: "polearm",
+        rarity: 5,
+        ascension: [
+            "mask_wicked",
+            "chaos_gear",
+            "old_handguard",
+        ],
+    },
+    {
         name: "crescent_pike",
         fullname: {
             en: "Crescent Pike",
@@ -255,6 +268,33 @@ export default [
             "boreal_wolf",
             "mist_grass_pollen",
             "recruit_insignia",
+        ],
+    },
+    {
+        name: "kitain_cross_spear",
+        fullname: {
+            en: "Kitain Cross Spear",
+            de: "Kitain-Kreuzlanze",
+        },
+        type: "polearm",
+        rarity: 4,
+        ascension: [
+            "mask_wicked",
+            "chaos_gear",
+            "treasure_hoarder_insignia",
+        ],
+    },
+    {
+        name: "the_catch",
+        fullname: {
+            en: "The Catch"
+        },
+        type: "polearm",
+        rarity: 4,
+        ascension: [
+            "mask_wicked",
+            "chaos_gear",
+            "spectral_husk",
         ],
     },
     {
