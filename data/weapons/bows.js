@@ -66,7 +66,7 @@ export default [
         type: "bow",
         rarity: 5,
         ascension: [
-            "narukami",
+            "narukamis",
             "dismal_prism",
             "firm_arrowhead",
         ],
@@ -319,12 +319,11 @@ export default [
         name: "hamayumi",
         fullname: {
             en: "Hamayumi",
-            de: "Hamayumi",
         },
         type: "bow",
         rarity: 4,
         ascension: [
-            "narukami",
+            "narukamis",
             "dismal_prism",
             "firm_arrowhead",
         ],
@@ -337,7 +336,7 @@ export default [
         type: "bow",
         rarity: 4,
         ascension: [
-            "narukami",
+            "narukamis",
             "dismal_prism",
             "firm_arrowhead",
         ],

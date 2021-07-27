@@ -85,7 +85,7 @@ export default [
         type: "polearm",
         rarity: 5,
         ascension: [
-            "mask_wicked",
+            "mask",
             "chaos_gear",
             "old_handguard",
         ],
@@ -279,7 +279,7 @@ export default [
         type: "polearm",
         rarity: 4,
         ascension: [
-            "mask_wicked",
+            "mask",
             "chaos_gear",
             "treasure_hoarder_insignia",
         ],
@@ -287,12 +287,12 @@ export default [
     {
         name: "the_catch",
         fullname: {
-            en: "The Catch"
+            en: "The Catch",
         },
         type: "polearm",
         rarity: 4,
         ascension: [
-            "mask_wicked",
+            "mask",
             "chaos_gear",
             "spectral_husk",
         ],

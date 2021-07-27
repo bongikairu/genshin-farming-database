@@ -67,6 +67,7 @@ export default [
             en: "Song of Broken Pines",
             es: "Oda de los Pinos",
             ja: "松韻の響く頃",
+            vi: "Tiếng Gió Trong Rừng",
             de: "Kiefernklang",
             ru: "Песнь разбитых сосен",
         },
@@ -314,12 +315,11 @@ export default [
         name: "katsuragikiri_nagamasa",
         fullname: {
             en: "Katsuragikiri Nagamasa",
-            de: "Katsuragikiri Nagamasa",
         },
         type: "claymore",
         rarity: 4,
         ascension: [
-            "narukami",
+            "narukamis",
             "chaos_gear",
             "old_handguard",
         ],

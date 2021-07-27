@@ -100,7 +100,7 @@ export default [
         type: "sword",
         rarity: 5,
         ascension: [
-            "coral_branch",
+            "branch_of_a_distant_sea",
             "chaos_gear",
             "old_handguard",
         ],
@@ -368,7 +368,7 @@ export default [
         type: "sword",
         rarity: 4,
         ascension: [
-            "coral_branch",
+            "branch_of_a_distant_sea",
             "chaos_gear",
             "old_handguard",
         ],

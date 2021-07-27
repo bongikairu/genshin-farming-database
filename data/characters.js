@@ -23,7 +23,6 @@ export const character_data = [
         name: "aloy",
         fullname: {
             en: "Aloy",
-            de: "Aloy",
         },
         element: "cryo",
         rarity: 5,
@@ -61,7 +60,6 @@ export const character_data = [
         fullname: {
             en: "Ayaka",
             ja: "綾華",
-            de: "Ayaka",
             ru: "Аяка",
         },
         element: "cryo",
@@ -175,7 +173,7 @@ export const character_data = [
             zhCn: "重云",
             ko: "중운",
             ja: "重雲",
-            ru: "Чжун Юнь",
+            ru: "Чун Юнь",
         },
         element: "cryo",
         rarity: 4,
@@ -298,7 +296,7 @@ export const character_data = [
             en: "Hu Tao",
             ko: "호두",
             ja: "胡桃",
-            ru: "Ху Тау",
+            ru: "Ху Тао",
         },
         element: "pyro",
         rarity: 5,
@@ -358,22 +356,24 @@ export const character_data = [
         ],
     },
     {
-        name: "Kazuha",
+        name: "kazuha",
         fullname: {
             en: "Kazuha",
             ja: "楓原万葉",
-            de: "Kazuha",
         },
         element: "anemo",
         rarity: 5,
         weapon: "sword",
         ascension: [
             "vayuda_turquoise",
-            "maguu_kishin",
+            "marionette_core",
             "sea_ganoderma",
             "treasure_hoarder_insignia",
         ],
-        talent: ["diligence", "treasure_hoarder_insignia"],
+        talent: [
+            "diligence",
+            "treasure_hoarder_insignia",
+        ],
     },
     {
         name: "keqing",
@@ -423,7 +423,6 @@ export const character_data = [
         name: "kokomi",
         fullname: {
             en: "Kokomi",
-            de: "Kokomi",
         },
         element: "hydro",
         rarity: 5,
@@ -568,7 +567,6 @@ export const character_data = [
         name: "raiden",
         fullname: {
             en: "Raiden",
-            de: "Raiden",
         },
         element: "electro",
         rarity: 5,
@@ -586,6 +584,7 @@ export const character_data = [
         fullname: {
             en: "Rosaria",
             ja: "ロサリア",
+            ru: "Розария",
         },
         element: "cryo",
         rarity: 4,
@@ -602,7 +601,6 @@ export const character_data = [
         name: "sara",
         fullname: {
             en: "Sara",
-            de: "Sara",
         },
         element: "electro",
         rarity: 4,
@@ -620,14 +618,13 @@ export const character_data = [
         fullname: {
             en: "Sayu",
             ja: "早柚",
-            de: "Sayu",
         },
         element: "anemo",
         rarity: 4,
         weapon: "claymore",
         ascension: [
             "vayuda_turquoise",
-            "maguu_kishin",
+            "marionette_core",
             "crystal_marrow",
             "whopperflower_nectar",
         ],
@@ -852,7 +849,6 @@ export const character_data = [
         fullname: {
             en: "Yoimiya",
             ja: "宵宮",
-            de: "Yoimiya",
         },
         element: "pyro",
         rarity: 5,

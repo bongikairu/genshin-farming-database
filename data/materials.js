@@ -91,6 +91,21 @@ export const farm_material = [
         },
         farm_at: "geo_hypostasis",
     },
+    {
+        name: "brilliant_diamond",
+        fullname: {
+            en: "Brilliant Diamond",
+            es: "Trozo de Diamante brillante",
+            pt: "Diamante",
+            ko: "휘황찬란한 다이아몬드",
+            ja: "輝くダイヤ",
+            vi: "Mảnh Kim Cương Bạc",
+            de: "Brilliantsplitter",
+            fr: "Diamant Brillant",
+            ru: "Осколок бриллианта",
+        },
+        farm_at: "adventure_rank",
+    },
 
     {
         name: "everflame_seed",
@@ -142,6 +157,7 @@ export const farm_material = [
         fullname: {
             en: "Crystalline Bloom",
             ja: "凝結の華",
+            vi: "Tinh Hoa Ngưng Kết",
             de: "Ewige Eisblume",
             ru: "Цветение кристалла",
         },
@@ -213,10 +229,9 @@ export const farm_material = [
         farm_at: "perpetual_mechanical_array",
     },
     {
-        name: "maguu_kishin",
+        name: "marionette_core",
         fullname: {
-            en: "Maguu Kishin",
-            de: "Maguu Kishin",
+            en: "Marionette Core",
         },
         farm_at: "maguu_kenki",
     },
@@ -539,7 +554,6 @@ export const farm_material = [
         name: "dendrobium",
         fullname: {
             en: "Dendrobium",
-            de: "Dendrobium",
         },
         farm_at: "world_harvest_inazuma",
         respawn_rate: "reset_2",
@@ -660,25 +674,6 @@ export const farm_material = [
         respawn_rate: "reset",
     },
     {
-        name: "chaos_gear",
-        fullname: {
-            en: "Chaos Gear",
-            de: "Chaos-Vorrichtung",
-        },
-        farm_at: "world_miniboss",
-        respawn_rate: "reset",
-    },
-    {
-        name: "dismal_prism",
-        fullname: {
-            en: "Dismal Prismr",
-            de: "Düsteres Prisma",
-        },
-        farm_at: "world_miniboss",
-        respawn_rate: "reset",
-    },
-
-    {
         name: "treasure_hoarder_insignia",
         fullname: {
             en: "Treasure Hoarder Insignia",
@@ -792,27 +787,29 @@ export const farm_material = [
         farm_at: "world_mob",
     },
     {
+        name: "chaos_gear",
+        fullname: {
+            en: "Chaos Gear",
+            de: "Chaos-Vorrichtung",
+        },
+        farm_at: "world_miniboss",
+        respawn_rate: "reset",
+    },
+    {
+        name: "dismal_prism",
+        fullname: {
+            en: "Dismal Prismr",
+            de: "Düsteres Prisma",
+        },
+        farm_at: "world_miniboss",
+        respawn_rate: "reset",
+    },
+    {
         name: "spectral_husk",
         fullname: {
             en: "Spectral Husk",
         },
         farm_at: "world_mob",
-    },
-
-    {
-        name: "brilliant_diamond",
-        fullname: {
-            en: "Brilliant Diamond",
-            es: "Trozo de Diamante brillante",
-            pt: "Diamante",
-            ko: "휘황찬란한 다이아몬드",
-            ja: "輝くダイヤ",
-            vi: "Mảnh Kim Cương Bạc",
-            de: "Brilliantsplitter",
-            fr: "Diamant Brillant",
-            ru: "Осколок бриллианта",
-        },
-        farm_at: "adventure_rank",
     },
 
     {
@@ -1020,26 +1017,23 @@ export const farm_material = [
         farm_at: "domain_forgery_cecilia_garden_wed_sat",
     },
     {
-        name: "coral_branch",
+        name: "branch_of_a_distant_sea",
         fullname: {
-            en: "Coral Branch",
-            de: "Korallenzweig",
+            en: "Branch of a Distant Sea",
         },
         farm_at: "domain_forgery_court_of_flowing_sand_mon_thu",
     },
     {
-        name: "narukami",
+        name: "narukamis",
         fullname: {
-            en: "Narukami's Wisdom",
-            de: "Narukamis Weisheit",
+            en: "Narukami's",
         },
         farm_at: "domain_forgery_court_of_flowing_sand_tue_fri",
     },
     {
-        name: "mask_wicked",
+        name: "mask",
         fullname: {
-            en: "Mask of the Wicked",
-            de: "Maske des Bösen",
+            en: "Mask",
         },
         farm_at: "domain_forgery_court_of_flowing_sand_wed_sat",
     },
@@ -1191,6 +1185,7 @@ export const farming_spot = [
             en: "World Boss: Cryo Hypostasis",
             th: "เวิลด์บอส: Cryo Hypostasis",
             ja: "フィールドボス：無相の氷",
+            vi: "Băng Nguyên Bản",
             de: "Anführergegner: Kryo-Hypostase",
             ru: "Мировой босс: Крио гипостазис",
         },
@@ -1514,7 +1509,8 @@ export const farming_spot = [
             en: "Domain of Forgery: Hidden Palace of Lianshan Formula",
             th: "ดันเจี้ยนแห่งการต่อสู้: ราชวังลับแห่ง Lianshan Formula",
             es: "Dominio de la forja: Palacio oculto de la Fórmula Lianshan",
-            pt: "Domínio das Profundezas Misteriosas: Palácio Oculto da Fórmula Lianshan",
+            pt:
+                "Domínio das Profundezas Misteriosas: Palácio Oculto da Fórmula Lianshan",
             ko: "연무 비경: 천둥 연산 밀궁",
             ja: "煉武秘境：震雷連山蜜宮",
             id: "Domain of Forgery: Istana Rahasia Lianshan Formula",
@@ -1533,7 +1529,8 @@ export const farming_spot = [
             en: "Domain of Forgery: Hidden Palace of Lianshan Formula",
             th: "ดันเจี้ยนแห่งการต่อสู้: ราชวังลับแห่ง Lianshan Formula",
             es: "Dominio de la forja: Palacio oculto de la Fórmula Lianshan",
-            pt: "Domínio das Profundezas Misteriosas: Palácio Oculto da Fórmula Lianshan",
+            pt:
+                "Domínio das Profundezas Misteriosas: Palácio Oculto da Fórmula Lianshan",
             ko: "연무 비경: 천둥 연산 밀궁",
             ja: "煉武秘境：震雷連山蜜宮 月・木曜",
             id: "Domain of Forgery: Istana Rahasia Lianshan Formula",
@@ -1553,7 +1550,8 @@ export const farming_spot = [
             en: "Domain of Forgery: Hidden Palace of Lianshan Formula",
             th: "ดันเจี้ยนแห่งการต่อสู้: ราชวังลับแห่ง Lianshan Formula",
             es: "Dominio de la forja: Palacio oculto de la Fórmula Lianshan",
-            pt: "Domínio das Profundezas Misteriosas: Palácio Oculto da Fórmula Lianshan",
+            pt:
+                "Domínio das Profundezas Misteriosas: Palácio Oculto da Fórmula Lianshan",
             ko: "연무 비경: 천둥 연산 밀궁",
             ja: "煉武秘境：震雷連山蜜宮 火・金曜",
             id: "Domain of Forgery: Istana Rahasia Lianshan Formula",
@@ -1573,7 +1571,8 @@ export const farming_spot = [
             en: "Domain of Forgery: Hidden Palace of Lianshan Formula",
             th: "ดันเจี้ยนแห่งการต่อสู้: ราชวังลับแห่ง Lianshan Formula",
             es: "Dominio de la forja: Palacio oculto de la Fórmula Lianshan",
-            pt: "Domínio das Profundezas Misteriosas: Palácio Oculto da Fórmula Lianshan",
+            pt:
+                "Domínio das Profundezas Misteriosas: Palácio Oculto da Fórmula Lianshan",
             ko: "연무 비경: 천둥 연산 밀궁",
             ja: "煉武秘境：震雷連山蜜宮 水・土曜",
             id: "Domain of Forgery: Istana Rahasia Lianshan Formula",
@@ -1734,8 +1733,11 @@ export const farming_spot = [
         name: "domain_blessing_ridge_watch",
         fullname: {
             en: "Domain of Blessing: Ridge Watch",
+            th: "ดันเจี้ยนแห่งพร: ผู้พิทักษ์แห่งขุนเขา",
             ja: "祈聖秘境：山脊の見守り",
+            vi: "Bảo Vệ Sườn Núi",
             de: "Sphäre des Segens: Gratwache",
+            ru: "Подземелье: Горный дозор",
         },
         day_of_week: null,
         resin: 20,
