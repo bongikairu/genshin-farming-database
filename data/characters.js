@@ -20,6 +20,23 @@ export const character_data = [
         talent: ["ballad", "divining_scroll"],
     },
     {
+        name: "aloy",
+        fullname: {
+            en: "Aloy",
+            de: "Aloy",
+        },
+        element: "cryo",
+        rarity: 5,
+        weapon: "bow",
+        ascension: [
+            "shivada_jade",
+            "crystalline_bloom",
+            "crystal_marrow",
+            "spectral_husk",
+        ],
+        talent: ["freedom", "spectral_husk"],
+    },
+    {
         name: "amber",
         fullname: {
             en: "Amber",
@@ -44,6 +61,7 @@ export const character_data = [
         fullname: {
             en: "Ayaka",
             ja: "綾華",
+            de: "Ayaka",
             ru: "Аяка",
         },
         element: "cryo",
@@ -51,11 +69,11 @@ export const character_data = [
         weapon: "sword",
         ascension: [
             "shivada_jade",
-            "hoarfrost_core",
-            "small_lamp_grass",
-            "divining_scroll",
+            "perpetual_heart",
+            "sakura_bloom",
+            "old_handguard",
         ],
-        talent: ["divining_scroll"],
+        talent: ["elegance", "old_handguard"],
     },
     {
         name: "barbara",
@@ -340,6 +358,24 @@ export const character_data = [
         ],
     },
     {
+        name: "Kazuha",
+        fullname: {
+            en: "Kazuha",
+            ja: "楓原万葉",
+            de: "Kazuha",
+        },
+        element: "anemo",
+        rarity: 5,
+        weapon: "sword",
+        ascension: [
+            "vayuda_turquoise",
+            "maguu_kishin",
+            "sea_ganoderma",
+            "treasure_hoarder_insignia",
+        ],
+        talent: ["diligence", "treasure_hoarder_insignia"],
+    },
+    {
         name: "keqing",
         fullname: {
             en: "Keqing",
@@ -382,6 +418,23 @@ export const character_data = [
             "divining_scroll",
         ],
         talent: ["freedom", "divining_scroll"],
+    },
+    {
+        name: "kokomi",
+        fullname: {
+            en: "Kokomi",
+            de: "Kokomi",
+        },
+        element: "hydro",
+        rarity: 5,
+        weapon: "catalyst",
+        ascension: [
+            "varunada_lazurite",
+            "dew_of_repudiation",
+            "sango_pearl",
+            "spectral_husk",
+        ],
+        talent: ["transience", "spectral_husk"],
     },
     {
         name: "lisa",
@@ -512,6 +565,23 @@ export const character_data = [
         talent: ["resistance", "damaged_mask"],
     },
     {
+        name: "raiden",
+        fullname: {
+            en: "Raiden",
+            de: "Raiden",
+        },
+        element: "electro",
+        rarity: 5,
+        weapon: "polearm",
+        ascension: [
+            "vajrada_amethyst",
+            "storm_beads",
+            "tenkumo_fruit",
+            "old_handguard",
+        ],
+        talent: ["light", "old_handguard"],
+    },
+    {
         name: "rosaria",
         fullname: {
             en: "Rosaria",
@@ -527,6 +597,41 @@ export const character_data = [
             "recruit_insignia",
         ],
         talent: ["ballad", "recruit_insignia"],
+    },
+    {
+        name: "sara",
+        fullname: {
+            en: "Sara",
+            de: "Sara",
+        },
+        element: "electro",
+        rarity: 4,
+        weapon: "bow",
+        ascension: [
+            "vajrada_amethyst",
+            "storm_beads",
+            "dendrobium",
+            "damaged_mask",
+        ],
+        talent: ["elegance", "damaged_mask"],
+    },
+    {
+        name: "sayu",
+        fullname: {
+            en: "Sayu",
+            ja: "早柚",
+            de: "Sayu",
+        },
+        element: "anemo",
+        rarity: 4,
+        weapon: "claymore",
+        ascension: [
+            "vayuda_turquoise",
+            "maguu_kishin",
+            "crystal_marrow",
+            "whopperflower_nectar",
+        ],
+        talent: ["light", "whopperflower_nectar"],
     },
     {
         name: "sucrose",
@@ -592,6 +697,22 @@ export const character_data = [
             ru: "Путешественник (Гео)",
         },
         element: "geo",
+        rarity: 5,
+        weapon: "sword",
+        ascension: [
+            "brilliant_diamond",
+            "windwheel_aster",
+            "damaged_mask",
+        ],
+        talent: [],
+    },
+    {
+        name: "traveler_electro",
+        fullname: {
+            en: "Traveler (Electro)",
+            de: "Reisender (Elektro)",
+        },
+        element: "electro",
         rarity: 5,
         weapon: "sword",
         ascension: [
@@ -713,7 +834,7 @@ export const character_data = [
             ru: "Янь Фэй",
         },
         element: "pyro",
-        rarity: 5,
+        rarity: 4,
         weapon: "catalyst",
         ascension: [
             "agnidus_agate",
@@ -725,6 +846,24 @@ export const character_data = [
             "gold",
             "treasure_hoarder_insignia",
         ],
+    },
+    {
+        name: "yoimiya",
+        fullname: {
+            en: "Yoimiya",
+            ja: "宵宮",
+            de: "Yoimiya",
+        },
+        element: "pyro",
+        rarity: 5,
+        weapon: "bow",
+        ascension: [
+            "agnidus_agate",
+            "smoldering_pearl",
+            "naku_weed",
+            "divining_scroll",
+        ],
+        talent: ["transience", "divining_scroll"],
     },
     {
         name: "zhongli",

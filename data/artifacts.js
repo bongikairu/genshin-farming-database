@@ -787,6 +787,40 @@ export const artifact_data = [
             },
         ],
     },
+    {
+        name: "emblem_of_severed_fate",
+        fullname: {
+            en: "Emblem of Severed Fate",
+            ja: "絶縁の旗印",
+            de: "Wappen des getrennten Schicksals",
+        },
+        item_list: [
+            {
+                fullname: {
+                    en: "Set",
+                    th: "Set",
+                },
+                farm_at: "domain_blessing_momiji_dyed_court",
+            },
+        ],
+    },
+    {
+        name: "shimenawas_reminiscence",
+        fullname: {
+            en: "Shimenawa's Reminiscence",
+            ja: "追憶のしめ縄",
+            de: "Gedenken an Shimenawa",
+        },
+        item_list: [
+            {
+                fullname: {
+                    en: "Set",
+                    th: "Set",
+                },
+                farm_at: "domain_blessing_momiji_dyed_court",
+            },
+        ],
+    },
 ];
 
 export const artifact_map = artifact_data.reduce(

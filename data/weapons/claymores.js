@@ -311,6 +311,33 @@ export default [
         ],
     },
     {
+        name: "katsuragikiri_nagamasa",
+        fullname: {
+            en: "Katsuragikiri Nagamasa",
+            de: "Katsuragikiri Nagamasa",
+        },
+        type: "claymore",
+        rarity: 4,
+        ascension: [
+            "narukami",
+            "chaos_gear",
+            "old_handguard",
+        ],
+    },
+    {
+        name: "luxurious_sea_lord",
+        fullname: {
+            en: "Luxurious Sea-Lord",
+        },
+        type: "claymore",
+        rarity: 4,
+        ascension: [
+            "aerosiderite",
+            "fragile_bone_shard",
+            "slime_condensate",
+        ],
+    },
+    {
         name: "skyrider_greatsword",
         fullname: {
             en: "Skyrider Greatsword",
