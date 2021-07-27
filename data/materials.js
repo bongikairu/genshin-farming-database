@@ -1395,6 +1395,16 @@ export const farming_spot = [
         type: "domain",
     },
     {
+        name: "domain_mastery_violet_court",
+        fullname: {
+            en: "Domain of Mastery: Violet Court",
+            de: "Sphäre des Verständnisses: Stiefmütterchenhof",
+        },
+        day_of_week: null,
+        resin: 20,
+        type: "domain",
+    },
+    {
         name: "domain_mastery_violet_court_mon_thu",
         fullname: {
             en: "Domain of Mastery: Violet Court",
@@ -1583,6 +1593,16 @@ export const farming_spot = [
         },
         alias_of: "domain_forgery_hidden_palace_of_lianshan_formula",
         day_of_week: ["wed", "sat", "sun"],
+        resin: 20,
+        type: "domain",
+    },
+    {
+        name: "domain_forgery_court_of_flowing_sand",
+        fullname: {
+            en: "Domain of Forgery: Court of Flowing Sand",
+            de: "Sphäre der Kriegskunst: Garten der fließenden Sande",
+        },
+        day_of_week: null,
         resin: 20,
         type: "domain",
     },
