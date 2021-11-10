@@ -71,6 +71,19 @@ export default [
             "firm_arrowhead",
         ],
     },
+	{
+        name: "polar_star",
+        fullname: {
+            en: "Polar Star",
+        },
+        type: "bow",
+        rarity: 5,
+        ascension: [
+            "mask",
+            "concealed_claw",
+            "spectral_husk",
+        ],
+    },
     {
         name: "compound_bow",
         fullname: {
@@ -339,6 +352,19 @@ export default [
             "narukamis",
             "dismal_prism",
             "firm_arrowhead",
+        ],
+    },
+    {
+        name: "mouuns_moon",
+        fullname: {
+            en: "Mouun's Moon",
+        },
+        type: "bow",
+        rarity: 4,
+        ascension: [
+            "narukamis",
+            "dismal_prism",
+            "spectral_husk",
         ],
     },
     {

@@ -655,6 +655,25 @@ export const character_data = [
             "whopperflower_nectar",
         ],
     },
+	{
+        name: "thoma",
+        fullname: {
+            en: "Thoma",
+        },
+        element: "pyro",
+        rarity: 4,
+        weapon: "polearm",
+        ascension: [
+            "agnidus_agate",
+            "smoldering_pearl",
+            "fluorescent_fungus",
+            "treasure_hoarder_insignia",
+        ],
+        talent: [
+            "transience",
+            "treasure_hoarder_insignia",
+        ],
+    },
     {
         name: "traveler_anemo",
         fullname: {

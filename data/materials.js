@@ -576,6 +576,14 @@ export const farm_material = [
         farm_at: "world_harvest_inazuma",
         respawn_rate: "reset_2",
     },
+	{
+        name: "fluorescent_fungus",
+        fullname: {
+            en: "Fluorescent Fungus",
+        },
+        farm_at: "world_harvest_inazuma",
+        respawn_rate: "reset_2",
+    },
 
     {
         name: "chaos_device",
@@ -810,6 +818,14 @@ export const farm_material = [
             en: "Spectral Husk",
         },
         farm_at: "world_mob",
+    },
+	{
+        name: "concealed_claw",
+        fullname: {
+            en: "Concealed Claw",
+        },
+        farm_at: "world_miniboss",
+        respawn_rate: "reset",
     },
 
     {
