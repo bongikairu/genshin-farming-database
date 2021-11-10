@@ -297,6 +297,19 @@ export default [
             "spectral_husk",
         ],
     },
+	{
+        name: "wavebreakers_fin",
+        fullname: {
+            en: "Wavebreaker's Fin",
+        },
+        type: "polearm",
+        rarity: 4,
+        ascension: [
+            "mask",
+            "concealed_claw",
+            "old_handguard",
+        ],
+    },
     {
         name: "black_tassel",
         fullname: {

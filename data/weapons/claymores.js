@@ -337,6 +337,19 @@ export default [
             "slime_condensate",
         ],
     },
+	{
+        name: "akuoumaru",
+        fullname: {
+            en: "Akuoumaru",
+        },
+        type: "claymore",
+        rarity: 4,
+        ascension: [
+            "branch_of_a_distant_sea",
+            "concealed_claw",
+            "old_handguard",
+        ],
+    },
     {
         name: "skyrider_greatsword",
         fullname: {
